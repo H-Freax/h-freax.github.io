@@ -18,24 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "科研实习生"
-  company = "伊利诺伊大学香槟分校"
-  company_url = "https://illinois.edu/"
-  location = "美国厄巴纳－尚佩恩市"
-  date_start = "2020-10-01"
-  date_end = "2020-12-01"
-  description = "分析软件配置"
+  title = "科研助理"
+  company = "温州大学建模与数据挖掘研究所"
+  company_url = "http://www.wzu.edu.cn/xkjs/kyjg.htm"
+  location = "中国浙江"
+  date_start = "2019-07-01"
+  date_end = "2019-12-01"
+  description = "研究基于文本的数据挖掘，帮助指导基于文本处理的数据挖掘技术"
 
 
 
 [[experience]]
-  title = "科研实习生"
-  company = "新加坡国立大学"
-  company_url = "http://www.nus.edu.sg/"
-  location = "新加坡"
-  date_start = "2020-06-05"
-  date_end = "2020-09-15"
-  description = "研究 BBR（未来王者） 和 CUBIC（目前王者）的竞争，使互联网能够平稳过渡到下一代的低延迟拥塞控制"
+  title = "技术负责人"
+  company = "温州市波普大数据研究院"
+  company_url = "https://www.ojc.zj.cn/"
+  location = "中国浙江"
+  date_start = "2018-12-01"
+  date_end = "2019-01-01"
+  description = "基于温州新闻网抓取的新闻内容进行舆情分析挖掘"
 
 
 
