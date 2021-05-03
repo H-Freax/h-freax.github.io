@@ -40,13 +40,13 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "蹭会者"
-  company = "SIGCOMM '19"
+  title = "技术负责人"
+  company = "MIE DEMO工作室"
   company_url = "https://conferences.sigcomm.org/sigcomm/2019/"
-  location = "中国北京"
-  date_start = "2019-08-19"
-  date_end = "2019-08-24"
-  description = "第一次知道啥叫真的厉害的作品以及在香格里拉酒店蹭吃蹭喝"
+  location = "中国浙江"
+  date_start = "2018-12-01"
+  date_end = "2019-01-01"
+  description = "为现有的党员志愿者体系建立了一个基于移动终端的大学生在线志愿者管理平台"
 
 
 [[experience]]
