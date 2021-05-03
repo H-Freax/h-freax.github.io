@@ -19,53 +19,117 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Ministry of Education, PRC"
+  organization = "Wenzhou University"
   organization_url = ""
-  title = "China National Scholarship"
+  title = "Wenzhou University 2020 Gu Chaohao Scholarship (1 out of 8773, 0.01\%)"
   url = ""
   certificate_url = ""
-  date_start = "2020-10-08"
+  date_start = "2020-05"
   date_end = ""
-  description = "The officially highest honor awarded to undergraduates in China"
+  description = "To reward undergraduate students of the university who are exceptionally outstanding in moral, intellectual, physical, aesthetic and labor aspects"
 
 [[item]]
-  organization = "Shenzhen Tianyuan Dic IT Co., Ltd. and Wuhan University"
+  organization = "Wenzhou University"
   organization_url = ""
-  title = "Tianyuan Dic Scholarship ($1,000)"
+  title = "University Student Science and Technology Innovation Star (1 out of 8773, 0.01\%)"
   url = ""
   certificate_url = ""
-  date_start = "2019-11-01"
+  date_start = "2020-05"
   date_end = ""
-  description = "For excellent academic performance and innovative thinking"
+  description = "In order to reward students who have outstanding performance in various activities of science and technology innovation in the university"
 
 [[item]]
-  organization = "Wuhan University"
+  organization = "Zhejiang Provincial Department of Education"
   organization_url = ""
-  title = "Outstanding Student Scholarship"
+  title = "Outstanding Graduates of Zhejiang Province(5\%)"
   url = ""
   certificate_url = ""
-  date_start = "2019-10-01"
+  date_start = "2020-06"
   date_end = ""
-  description = "For excellent yearly academic and social achievements"
-  
-[[item]]
-  organization = "Wuhan University"
-  organization_url = ""
-  title = "Excellent Student Cadre"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "For outstanding leadership and cooperation skills in student affairs"
+  description = "Highest honor for graduates in Zhejiang Province"
 
 [[item]]
-  organization = "Wuhan University"
+  organization = ""
   organization_url = ""
-  title = "Freshmen Scholarship"
+  title = "Meritorious Winner in Mathematical Contest In Modeling (MCM)"
   url = ""
   certificate_url = ""
-  date_start = "2017-12-01"
+  date_start = "2019-04"
   date_end = ""
-  description = "For rising stars in the first term"
+  description = ""
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Honorable Mention Award in Mathematical Contest In Modeling (MCM)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Wenzhou Institute of Technology"
+  organization_url = ""
+  title = "First Class Scholarship (5\%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-2019"
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "hejiang Provincial Department of Education"
+  organization_url = ""
+  title = " Zhejiang Provincial Government Scholarship (3\%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-2019"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Wenzhou University"
+  organization_url = ""
+  title = "Outstanding student leaders"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-2019"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "First Prize of the 12th "China Electrical Engineering Society Cup" National Students' Electrical and Mathematical Modeling"
+  url = ""
+  certificate_url = ""
+  date_start = "2018"
+  date_end = ""
+  description = ""  
+
+
+
+[[item]]
+  organization = "Zhejiang Chongxiao Zhong Han Medical Technology Co"
+  organization_url = ""
+  title = "Distinguished Employees"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Two times won the third prize of Zhejiang Province E-commerce competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-2019"
+  date_end = ""
+  description = ""    
 +++

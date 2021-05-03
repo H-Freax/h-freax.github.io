@@ -4,7 +4,7 @@ role: 计算机专业本科生
 avatar_filename: avatar.png
 organizations:
   - name: 温州理工学院
-    url: http://www.whu.edu.cn/
+    url: https://www.ojc.zj.cn/
 superuser: true
 authors:
   - admin
@@ -26,13 +26,13 @@ social:
     link: https://github.com/H-Freax
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/rubyfreax
+    link: https://www.linkedin.com/in/rubyfreax
 education:
   courses:
     - course: 工学学士
       institution: 温州理工学院
-      year: 2021
-email: ""
+      year: 2020
+email: "limyoonaxi@gmail.com"
 user_groups:
   - Researchers
   - Visitors
