@@ -103,7 +103,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "First Prize of the 12th "China Electrical Engineering Society Cup" National Students' Electrical and Mathematical Modeling"
+  title = "First Prize of the 12th \"China Electrical Engineering Society Cup\" National Students' Electrical and Mathematical Modeling"
   url = ""
   certificate_url = ""
   date_start = "2018"
