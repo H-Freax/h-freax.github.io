@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Analysis of football game performance based on social network, in *press*"
-<!-- publication_short = "glider" -->
+
 
 # Abstract and optional shortened version.
 abstract = ""
