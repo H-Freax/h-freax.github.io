@@ -1,11 +1,11 @@
 +++
-title = "Glider: Rethinking Congestion Control with Deep Reinforcement Learning (in submission)"
+title = "Analysis of football game performance based on social network (in press)"
 
 # Date first published.
-date = "2019"
+date = "2021"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anonymous", "Anonymous", "Anonymous", "Anonymous", "*J. Zhang*", "Anonymous", "Anonymous", "Anonymous"]
+authors = [ "*Y. Qian*", "匿名"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Anonymous", "Anonymous", "Anonymous", "Anonymous", "*J. Zhang*", "An
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Glider: Rethinking Congestion Control with Deep Reinforcement Learning, in *submission*"
-publication_short = "glider"
+publication = "Analysis of football game performance based on social network, in *press*"
+<!-- publication_short = "glider" -->
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -36,7 +36,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["glider"]
+projects = ["ei"]
 
 # Links (optional).
 url_pdf = ""

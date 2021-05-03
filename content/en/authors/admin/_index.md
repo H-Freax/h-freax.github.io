@@ -1,5 +1,5 @@
 ---
-title: Jingzhi Zhang
+title: Yaoyao Qian
 role: Computer Science Undergraduate
 avatar_filename: avatar.png
 organizations:
