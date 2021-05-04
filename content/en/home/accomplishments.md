@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   description = "Highest honor for graduates in Zhejiang Province"
 
 [[item]]
-  organization = ""
+  organization = "American Student Mathematical Modeling Association"
   organization_url = ""
   title = "Meritorious Winner in Mathematical Contest In Modeling (MCM)"
   url = ""
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = ""
+  organization = "American Student Mathematical Modeling Association"
   organization_url = ""
   title = "Honorable Mention Award in Mathematical Contest In Modeling (MCM)"
   url = ""
@@ -80,13 +80,13 @@ date_format = "Jan 2006"
   description = ""  
 
 [[item]]
-  organization = "hejiang Provincial Department of Education"
+  organization = "Zhejiang Provincial Department of Education"
   organization_url = ""
   title = " Zhejiang Provincial Government Scholarship (3%)"
   url = ""
   certificate_url = ""
-  date_start = "2017-01-01"
-  date_end = "2019-01-01"
+  date_start = "2017-10-01"
+  date_end = "2019-10-01"
   description = ""
 
 [[item]]
@@ -95,18 +95,18 @@ date_format = "Jan 2006"
   title = "Outstanding student leaders"
   url = ""
   certificate_url = ""
-  date_start = "2017-01-01"
-  date_end = "2019-01-01"
+  date_start = "2017-03-01"
+  date_end = "2019-03-01"
   description = ""
 
 
 [[item]]
-  organization = ""
+  organization = "China Electrical Engineering Society National Student Electrical and Mathematical Modeling Competition Committee"
   organization_url = ""
   title = "First Prize of the 12th China Electrical Engineering Society Cup National Students' Electrical and Mathematical Modeling"
   url = ""
   certificate_url = ""
-  date_start = "2018-01-01"
+  date_start = "2018-07-01"
   date_end = ""
   description = ""  
 
@@ -124,12 +124,12 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = ""
+  organization = "Zhejiang University Science and Technology Competition Committee"
   organization_url = ""
   title = "Two times won the third prize of Zhejiang Province E-commerce competition"
   url = ""
   certificate_url = ""
-  date_start = "2018-01-01"
-  date_end = "2019-01-01"
+  date_start = "2018-06-01"
+  date_end = "2019-06-01"
   description = ""    
 +++
