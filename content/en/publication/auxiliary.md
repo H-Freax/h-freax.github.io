@@ -1,11 +1,11 @@
 +++
-title = "Analysis of football game performance based on social network (in press)"
+title = "Auxiliary construction terminal for construction worker"
 
 # Date first published.
-date = "2021"
+date = "2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "*Y. Qian*", "匿名"]
+authors = [ "*Y. Qian*"]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ authors = [ "*Y. Qian*", "匿名"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Analysis of football game performance based on social network, in *press*"
+publication = "CN Patent 201810682890.7"
 
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["ei"]
+projects = ["auxiliary"]
 
 # Links (optional).
 url_pdf = ""
