@@ -17,6 +17,19 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "技术经理"
+  company = "浙江崇孝众翰医疗科技有限公司"
+  company_url = ""
+  location = "中国浙江"
+  date_start = "2020-05-13"
+  date_end = "Present"
+  description = "独立开发了一个基于VC++的DBI工具，用于从Access端向Oracle端导出和导入数据库。
+ 独立开发了一个后端基于Springboot，前端基于Vue的电子发票管理系统，与公司原有的医院系统对接。
+ 组建开发团队，组织团队成员开发内部管理系统，方便公司业务的管理。"
+
+
 [[experience]]
   title = "科研助理"
   company = "温州大学建模与数据挖掘研究所"
@@ -49,26 +62,8 @@ date_format = "Jan 2006"
   description = "为现有的党员志愿者体系建立了一个基于移动终端的大学生在线志愿者管理平台"
 
 
-[[experience]]
-  title = "本科生研究助理"
-  company = "武汉大学"
-  company_url = "http://www.whu.edu.cn/"
-  location = "中国武汉"
-  date_start = "2018-09-10"
-  date_end = ""
-  description = """
-探索计算机网络中的不同层次和覆盖范围：
-- <ins>传输层 / 广域网</ins>: 利用强化学习解决互联网上的拥塞控制
-- <ins>应用层 / 个域网</ins>: 利用计算机视觉和机器学习技术估计卡路里摄入"""
 
 
-[[experience]]
-  title = "潜在的卓越工程师"
-  company = "武汉大学"
-  company_url = "http://www.whu.edu.cn/"
-  location = "中国武汉"
-  date_start = "2017-10-01"
-  date_end = ""
-  description = "从计科专业的 368 个学生中，根据学术和工程潜力，选了 29 个进入卓工班"
+
 
 +++

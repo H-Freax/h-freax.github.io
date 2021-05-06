@@ -19,53 +19,117 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "中华人民共和国教育部"
+  organization = "温州大学"
   organization_url = ""
-  title = "国家奖学金"
+  title = "温州大学谷超豪奖学金(1 out of 8773, 0.01%)"
   url = ""
   certificate_url = ""
-  date_start = "2020-10-08"
+  date_start = "2020-05-01"
   date_end = ""
-  description = "国家奖学金是为了激励普通本科高校、高等职业学校和高等专科学校学生勤奋学习、努力进取，在德、智、体、美等方面全面发展，由中央政府出资设立的奖励特别优秀学生的奖学金"
-  
-[[item]]
-  organization = "深圳天源迪科信息技术股份有限公司以及武汉大学"
-  organization_url = ""
-  title = "天源迪科奖学金（￥8000）"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-11-01"
-  date_end = ""
-  description = "奖励给那些具有好的学术表现和创新思维的学生"
+  description = "奖励在德、智、体、美、劳方面表现特别突出的大学本科生"
 
 [[item]]
-  organization = "武汉大学"
+  organization = "温州大学"
   organization_url = ""
-  title = "优秀学生奖学金（乙等）"
+  title = "温州大学大学生科技创新之星(1 out of 8773, 0.01%)"
   url = ""
   certificate_url = ""
-  date_start = "2019-10-01"
+  date_start = "2020-05-01"
   date_end = ""
-  description = "奖励给本年内在学业和社会活动上表现优异的学生"
-  
+  description = "为了奖励在学校各项科技创新活动中表现突出的学生"
+
 [[item]]
-  organization = "武汉大学"
+  organization = "浙江省教育厅"
+  organization_url = ""
+  title = "浙江省优秀毕业生(5%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "浙江省毕业生的最高荣誉"
+
+[[item]]
+  organization = "美国大学生数学建模协会"
+  organization_url = ""
+  title = "Meritorious Winner in Mathematical Contest In Modeling (MCM)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "美国大学生数学建模协会"
+  organization_url = ""
+  title = "Honorable Mention Award in Mathematical Contest In Modeling (MCM)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "温州理工学院"
+  organization_url = ""
+  title = "一等奖学金(5%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-01-01"
+  date_end = "2019-01-01"
+  description = ""  
+
+[[item]]
+  organization = "浙江省教育厅"
+  organization_url = ""
+  title = "浙江省省政府奖学金(3%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = "2019-10-01"
+  description = ""
+
+[[item]]
+  organization = "温州大学"
   organization_url = ""
   title = "优秀学生干部"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "奖励给能够很好团结同学和为同学服务的学生"
+  date_start = "2017-03-01"
+  date_end = "2019-03-01"
+  description = ""
+
 
 [[item]]
-  organization = "武汉大学"
+  organization = "中国电机工程学会全国学生电气与数学建模竞赛委员会"
   organization_url = ""
-  title = "新生奖学金（丙等）"
+  title = "第十二届中国电机工程学会杯全国大学生电工数学建模一等奖"
   url = ""
   certificate_url = ""
-  date_start = "2017-12-01"
+  date_start = "2018-07-01"
   date_end = ""
-  description = "奖励给高考分数高的学生"
+  description = ""  
 
+
+
+[[item]]
+  organization = "浙江崇孝众翰医疗科技有限公司"
+  organization_url = ""
+  title = "杰出员工"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "浙江大学生科技竞赛委员会"
+  organization_url = ""
+  title = "两次获得浙江省电子商务大赛三等奖"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-06-01"
+  date_end = "2019-06-01"
+  description = ""
 +++

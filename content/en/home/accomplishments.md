@@ -124,7 +124,7 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Zhejiang University Science and Technology Competition Committee"
+  organization = "Zhejiang University Student Science and Technology Competition Committee"
   organization_url = ""
   title = "Two times won the third prize of Zhejiang Province E-commerce competition"
   url = ""

@@ -18,57 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
-  company = "University of Illinois Urbana-Champaign"
-  company_url = "https://illinois.edu/"
-  location = "Urbana, the U.S."
-  date_start = "2020-10-01"
-  date_end = "2020-12-01"
-  description = "Analyze software configurations"
+  title = "Technical Manager"
+  company = "Zhejiang Chongxiao Zhong Han Medical Technology Co"
+  company_url = ""
+  location = "Hangzhou, China"
+  date_start = "2020-05-13"
+  date_end = "Present"
+  description = "Independently developed an VC++ based DBI tool for database export and import from Access side to Oracle side
+Independently developed an electronic invoice management system based on Springboot on the back-end and Vue on the front-end to interface with the company's original hospital system.
+Form a development team and organize team members to develop an internal management system that facilitates the management of the company's business."
+
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Institute of Modeling and Data Mining, Wenzhou University"
+  company_url = "http://www.wzu.edu.cn/xkjs/kyjg.htm"
+  location = "Wenzhou, China"
+  date_start = "2019-07-01"
+  date_end = "2019-12-01"
+  description = "Researched on data mining based on text processing
+  Help guide data mining techniques related to text processing"
 
 
 
 [[experience]]
-  title = "Research Intern"
-  company = "National University of Singapore"
-  company_url = "http://www.nus.edu.sg/"
-  location = "Singapore"
-  date_start = "2020-06-05"
-  date_end = "2020-09-15"
-  description = "Dig into the competition between BBR (emerging power) and CUBIC (existing great power), for smoothly switching to a next-generation, low-latency congestion control"
+  title = "Technical Leader"
+  company = "Wenzhou Bopu Institute of Big Data"
+  company_url = "https://www.ojc.zj.cn/"
+  location = "Wenzhou, China"
+  date_start = "2018-12-01"
+  date_end = "2019-01-01"
+  description = "Researched on public opinion analysis based on Wenzhou News Network
+  Public opinion analysis mining based on news content crawled from Wenzhou News Network"
 
 
 
 [[experience]]
-  title = "Attendee"
-  company = "SIGCOMM '19"
+  title = "Technical Leader"
+  company = "MIE DEMO Studio"
   company_url = "https://conferences.sigcomm.org/sigcomm/2019/"
-  location = "Beijing, China"
-  date_start = "2019-08-19"
-  date_end = "2019-08-24"
-  description = "Being shocked by real state-of-the-art works and enjoy foods in Shangri-La Hotel"
-
-
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Wuhan University"
-  company_url = "https://en.whu.edu.cn/"
-  location = "Wuhan, China"
-  date_start = "2018-09-10"
-  date_end = ""
-  description = """
-Explore different levels (layers) or scales (areas) of computer networks:
-- <ins>Transport Layer / WAN</ins>: Harness Reinforcement Leaning for Internet Congestion Control
-- <ins>Application Layer / PAN</ins>:  Utilize Computer Vision and Machine Learning to estimate calorie intakes"""
-
-
-[[experience]]
-  title = "Potential Outstanding Researcher/Engineer"
-  company = "Wuhan University"
-  company_url = "https://en.whu.edu.cn/"
-  location = "Wuhan, China"
-  date_start = "2017-10-01"
-  date_end = ""
-  description = "As 1 of 29, being selected based on the potential in academia or industries from 368 students in School of Computer Science, Wuhan University"
+  location = "Wenzhou, China"
+  date_start = "2018-12-01"
+  date_end = "2019-01-01"
+  description = "Established a mobile terminal-based online volunteer management platform for university students for the existing party member volunteer system"
 
 +++
