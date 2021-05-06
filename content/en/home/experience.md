@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   location = "Wenzhou, China"
   date_start = "2019-07-01"
   date_end = "2019-12-01"
-  description = "Researched on data mining based on text processing
-  Help guide data mining techniques related to text processing"
+  description = """Researched on data mining based on text processing
+  Help guide data mining techniques related to text processing."""
 
 
 
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   location = "Wenzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-01-01"
-  description = "Researched on public opinion analysis based on Wenzhou News Network
-  Public opinion analysis mining based on news content crawled from Wenzhou News Network"
+  description = """Researched on public opinion analysis based on Wenzhou News Network
+  Public opinion analysis mining based on news content crawled from Wenzhou News Network"""
 
 
 
@@ -59,6 +59,6 @@ date_format = "Jan 2006"
   location = "Wenzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-01-01"
-  description = "Established a mobile terminal-based online volunteer management platform for university students for the existing party member volunteer system"
+  description = """Established a mobile terminal-based online volunteer management platform for university students for the existing party member volunteer system"""
 
 +++
