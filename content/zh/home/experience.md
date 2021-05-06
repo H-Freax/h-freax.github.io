@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "技术负责人"
   company = "MIE DEMO工作室"
-  company_url = "https://conferences.sigcomm.org/sigcomm/2019/"
+  company_url = ""
   location = "中国浙江"
   date_start = "2018-12-01"
   date_end = "2019-01-01"

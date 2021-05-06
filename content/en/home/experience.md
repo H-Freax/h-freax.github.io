@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Technical Leader"
   company = "MIE DEMO Studio"
-  company_url = "https://conferences.sigcomm.org/sigcomm/2019/"
+  company_url = ""
   location = "Wenzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-01-01"
