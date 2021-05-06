@@ -1,9 +1,9 @@
 ---
-title: 使用智能手机估测卡路里
-summary: 方便进行自动饮食探测
+title: 50小时义工平台
+summary: 使用.Net作为开发语言，基于MVC模式开发的义工管理系统。
 tags:
-- sensing
-date: "2020-03-15"
+- development_projects
+date: "2018-02-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -25,7 +25,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Co-advised by [Prof. Yanjiao Chen](https://iqua.ece.toronto.edu/ychen/) and [Prof. Qian Zhang](http://home.cse.ust.hk/~qianzh/)
-
-- Coordinated computer vision and near-infrared sensing to precisely estimate food calories
-- Provided user-friendly Android apps solely based on smartphones
+担任技术成员
+项目描述：使用.Net作为开发语言，基于MVC模式开发的义工管理系统。
+负责部分：网站需求分析，功能分析，Windows 2008 R2服务器的搭建，后期测试以及部分页面调整。
+完成情况：2019年1月网站正式上线。
