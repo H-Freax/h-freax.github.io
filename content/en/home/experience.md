@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Hangzhou, China"
   date_start = "2020-05-13"
   date_end = "Present"
-  description = "Independently developed an VC++ based DBI tool for database export and import from Access side to Oracle side.Independently developed an electronic invoice management system based on Springboot on the back-end and Vue on the front-end to interface with the company's original hospital system.Form a development team and organize team members to develop an internal management system that facilitates the management of the company's business."
+  description = """Independently developed an VC++ based DBI tool for database export and import from Access side to Oracle side.Independently developed an electronic invoice management system based on Springboot on the back-end and Vue on the front-end to interface with the company's original hospital system.Form a development team and organize team members to develop an internal management system that facilitates the management of the company's business."""
 
 
 
