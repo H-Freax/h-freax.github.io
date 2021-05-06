@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   description = "Independently developed an VC++ based DBI tool for database export and import from Access side to Oracle side.Independently developed an electronic invoice management system based on Springboot on the back-end and Vue on the front-end to interface with the company's original hospital system.Form a development team and organize team members to develop an internal management system that facilitates the management of the company's business."
 
 
+
 [[experience]]
   title = "Research Assistant"
   company = "Institute of Modeling and Data Mining, Wenzhou University"
