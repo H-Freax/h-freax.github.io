@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = "2020-05-01"
   description = """
-  · Analyzed impact factors of soccer teams strategies based on soccer game records
-  · Conducted analytical modeling of contest records using social networks and degree centrality
-  · The analysis of the Huskies and related soccer games reveals that teams are more focused on
+  - Analyzed impact factors of soccer teams strategies based on soccer game records
+  - Conducted analytical modeling of contest records using social networks and degree centrality
+  - The analysis of the Huskies and related soccer games reveals that teams are more focused on
   coordination and communication than individuals
   """
 
@@ -55,8 +55,11 @@ date_format = "Jan 2006"
   location = "Wenzhou, China"
   date_start = "2019-07-01"
   date_end = "2019-12-01"
-  description = """Researched on data mining based on text processing
-  Help guide data mining techniques related to text processing."""
+  description = """
+  - Collected shopping site reviews from Amazon using BeautifulSoup
+  - Conducted sentiment analysis on the corpus using Textblob and
+  - Created a user profile of the commenters using Wordcloud
+  """
 
 
 
@@ -67,8 +70,11 @@ date_format = "Jan 2006"
   location = "Wenzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-01-01"
-  description = """Researched on public opinion analysis based on Wenzhou News Network
-  Public opinion analysis mining based on news content crawled from Wenzhou News Network"""
+  description = """
+  - Conducted public opinion analysis based on news content crawled from Wenzhou News Network
+  - Transformed news content into knowledge graph based on lexicon for news sentiment analysis
+  - Used TextRank4ZH for news topic word extraction and topic “hotness” visualization
+  """
 
 
 
