@@ -25,11 +25,26 @@ date_format = "Jan 2006"
   date_start = "2020-05-13"
   date_end = ""
   description = """
-  
+  In-service period
   - Independently developed a VC++-based DBI tool from scratch for exporting and importing fromAccess to Oracle, improving deployment efficiency by 30%·
   - Independently developed a Springboot+Vue e-invoice management system interfaced with the hos-pital system, improving business efficiency by 80%·
   - Built a development team from scratch and led the development of an internal management systembased on the company’s business; responsible for writing key code and controlling code quality andproject progress.
   """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Wenzhou Institute of Technology"
+  company_url = "https://www.ojc.zj.cn/"
+  location = "Wenzhou, China"
+  date_start = "2020-04-01"
+  date_end = "2020-05-01"
+  description = """
+  · Analyzed impact factors of soccer teams strategies based on soccer game records
+  · Conducted analytical modeling of contest records using social networks and degree centrality
+  · The analysis of the Huskies and related soccer games reveals that teams are more focused on
+  coordination and communication than individuals
+  """
+
 
 
 
