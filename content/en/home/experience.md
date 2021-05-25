@@ -85,6 +85,11 @@ date_format = "Jan 2006"
   location = "Wenzhou, China"
   date_start = "2018-12-01"
   date_end = "2019-01-01"
-  description = """Established a mobile terminal-based online volunteer management platform for university students for the existing party member volunteer system"""
+  description = """
+  - During the period of service, the workshop was established as a national innovation and entrepreneurship training program for college students
+  - Established an online volunteer management platform based on mobile terminals for the existing party member volunteer system
+  - Responsible for the maintenance and optimization of the existing projects and the server-side of the studio, and participated in project analysis and testing
+
+  """
 
 +++
