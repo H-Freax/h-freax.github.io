@@ -1,5 +1,5 @@
 +++
-title = " Dual-purpose grabbing device with good supporting property for automobile tire (patent)"
+title = "Dual-purpose grabbing device with good supporting property for automobile tire (patent)"
 
 # Date first published.
 date = "2018"
