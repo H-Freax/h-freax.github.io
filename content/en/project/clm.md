@@ -1,6 +1,6 @@
 ---
-title: 吃了吗
-summary: 基于推荐系统的外卖平台
+title: Chi Le Ma
+summary: Recommender system based takeaway platform
 tags:
 - referral_system
 date: "2019-01-01"
@@ -25,7 +25,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-独立开发
+Independent Project
 
-- 负责部分：基于爬取的饿了么温州茶山大学城可配送的店家信息，采用SpringMVC作为服务器端，基于
-Okhttp+rxjava+retrofit进行安卓端的网络请求封装，其中设计了推荐系统的部分，由于数据量较小，采用了Mashout中基于物品的协同过滤算法，进行了基本推荐。
+- Responsible for the part: based on the crawled hungry Wenzhou Chashan University City can be delivered to the store information, using SpringMVC as the server-side, based on
+Okhttp+rxjava+retrofit for the Android side of the network request packaging, which designed the part of the recommendation system, due to the small amount of data, collaborative filtering algorithms based on items in Mashout, the basic recommendations.

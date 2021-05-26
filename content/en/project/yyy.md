@@ -1,6 +1,6 @@
 ---
-title: 摇一药
-summary: 基于Logistics的非处方中成药推荐平台
+title: Yao Yi Yao
+summary: Logistics-based recommendation platform for over-the-counter proprietary Chinese medicines
 tags:
 - referral_system
 date: "2018-10-01"
@@ -25,10 +25,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-担任技术总负责
+Acting as general technical director
 
-- 项目描述：一个基于临床症状进行证型判断的非处方中成药推荐APP。可以通过输入临床症状，以及个人健康信息，获取证型判断以及非处方中成药推荐。
+- Project Description: An over-the-counter (OTC) Chinese medicine recommendation app based on clinical symptoms allows you to input clinical signs and personal health information to obtain evidence-based judgments and OTC Chinese medicine recommendations.
 
-- 负责部分：独立完成该项目的平台开发部分，且基于项目完成演示视频的制作。该项目通过检索中国科技期刊全文数据库，纳入具有明确关于临床常见病证候分型与证候的临床特征-症状的文献，基于Logistics回归进行证型判断，通过药店实体考察、电商网站检索以及相关图书多方面研究临床常见非处方中成药的主症与证型，搭建数据库，从而实现推荐功能。
-
-- 完成情况：本项目与北京中医药课题组合作完成，已完成试运行部分，后续可添加数据集且基于新的数据集进行算法优化及功能添加。
+- Responsible for the development of the platform and the production of the demonstration video based on the project. The project retrieves the full-text database of Chinese scientific and technical journals, incorporates the literature with evident clinical characteristics and symptoms of commonly clinical diseases, determines the evidence-based on Logistics regression, studies the main symptoms and evidence of common over-the-counter Chinese medicines through physical visits to pharmacies, e-commerce websites and related books, and builds a database to realize the recommendation function.
+- Completion: This project is completed in cooperation with the Beijing TCM group, and the trial run has been completed, and the data set can be added, and the algorithm optimization and functions can be added based on the new data set.
