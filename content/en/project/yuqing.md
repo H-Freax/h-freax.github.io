@@ -1,6 +1,6 @@
 ---
-title: 基于温州新闻网的舆情分析项目
-summary: 基于温州新闻网的进行舆情分析
+title: Public opinion analysis project based on Wenzhou News Network
+summary: Public opinion analysis based on Wenzhou News Network
 tags:
 - public_opinion
 date: "2019-01-01"
@@ -25,10 +25,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Act as the overall project manager
+Acting as the project leader, independently developed and completed.
 
-- Project Description: Public opinion analysis based on Wenzhou News Network
-
-- Responsible part: use python to write a crawler to crawl 100w+ news content of Wenzhou News Network and deposit it into ElasticSearch, use tornado as server, use sentiment dictionary to realize sentiment analysis of news content, structure for single news, so as to realize news content mapping, use TextRank4ZH for news topic word extraction, using charts to show news topic heat tracking, showing news content clustering visualization through word cloud, and also combining with maps for news heat map display of a certain time period.
-
-- Completion: It has been independently developed and completed.
+- Use python to write a crawler to crawl 100w+ news content of Wenzhou news network to deposit in ElasticSearch
+- Based on tornado as the server, realize the sentiment analysis of news content based on sentiment dictionary
+- Structured for a single piece of news, to realize the news content mapping
+- TextRank4ZH is used to extract news topic words, and charts are used to show news topic hotness tracking
+- Visualization of news content clustering by the word cloud
+- Combine with maps to display news heat map for a certain time

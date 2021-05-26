@@ -1,6 +1,6 @@
 ---
-title: 明律
-summary: 基于大数据和人工智能技术的法律平台
+title: Ming Law
+summary: Built a legal platform based on big data and artificial intelligence technologies
 tags:
 - nlp_program
 date: "2019-01-01"
