@@ -32,7 +32,7 @@ education:
     - course: B.Eng. in Computer Science
       institution: Wenzhou Institute of Technology
       year: 2020
-
+email: "limyoonaxi@gmail.com"
 user_groups:
   - Researchers
   - Visitors
@@ -40,4 +40,4 @@ user_groups:
 
 Hello! I am Qian Yaoyao, currently working as a technical manager in Zhejiang Chongxiao Zhonghan Medical Technology Co. Graduated from Wenzhou Institute of Technology, I have practiced Wenzhou News based news opinion analysis under the guidance of Prof. Xianming Wang from Wenzhou Bopu Big Data Research Institute, and was responsible for helping to guide students in text-based data mining in the Institute of Modeling and Data Mining at Wenzhou University under the responsibility of Associate Prof. Xu Xu. During this study process, I was very interested in the directions listed in the research interests.
 
-<!-- If you have any ideas, please [contact me](#contact). -->
+If you have any ideas, please [contact me](#contact).
