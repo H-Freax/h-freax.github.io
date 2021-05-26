@@ -32,7 +32,7 @@ education:
     - course: B.Eng. in Computer Science
       institution: Wenzhou Institute of Technology
       year: 2020
-email: "limyoonaxi@gmail.com"
+
 user_groups:
   - Researchers
   - Visitors

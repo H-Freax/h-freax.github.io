@@ -32,7 +32,7 @@ education:
     - course: 工学学士
       institution: 温州理工学院
       year: 2020
-email: "limyoonaxi@gmail.com"
+
 user_groups:
   - Researchers
   - Visitors
