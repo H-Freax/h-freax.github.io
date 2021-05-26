@@ -1,10 +1,10 @@
 ---
 title:  钱瑶瑶
-role: 计算机专业本科生
+role: 技术经理
 avatar_filename: avatar.png
 organizations:
-  - name: 温州理工学院
-    url: https://www.ojc.zj.cn/
+  - name: 浙江崇孝众翰医疗科技有限公司
+    url:
 superuser: true
 authors:
   - admin

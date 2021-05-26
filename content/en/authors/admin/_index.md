@@ -1,10 +1,10 @@
 ---
 title: Yaoyao Qian
-role: Computer Science Undergraduate
+role: Technical Manager
 avatar_filename: avatar.png
 organizations:
-  - name: Wenzhou Institute of Technology
-    url: https://www.ojc.zj.cn/
+  - name: Zhejiang Chongxiao Zhong Han Medical Technology Co
+    url:
 superuser: true
 authors:
   - admin
