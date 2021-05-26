@@ -1,6 +1,6 @@
 ---
-title: 基于lending club的数据分析实战项目
-summary: 基于lending club的数据分析
+title: 基于lending club的数据分析实战项目（已开源）
+summary: https://github.com/H-Freax/lendingclub_analyse
 tags:
 - open_source
 date: "2021-04-27"

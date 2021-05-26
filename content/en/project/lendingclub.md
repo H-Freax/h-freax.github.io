@@ -1,6 +1,6 @@
 ---
-title: Lending club based data analysis practical project
-summary: Lending club based data analysis practical project
+title: Lending club based data analysis practical project (Open source)
+summary: https://github.com/H-Freax/lendingclub_analyse
 tags:
 - open_source
 date: "2021-04-27"
