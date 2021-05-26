@@ -70,7 +70,7 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Wenzhou Institute of Technology"
+  organization = "Wenzhou University of Technology"
   organization_url = ""
   title = "First Class Scholarship (5%)"
   url = ""

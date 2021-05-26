@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Wenzhou Institute of Technology"
+  company = "Wenzhou University of Technology"
   company_url = "https://www.ojc.zj.cn/"
   location = "Wenzhou, China"
   date_start = "2020-04-01"
