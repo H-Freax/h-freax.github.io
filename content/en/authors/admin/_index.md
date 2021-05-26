@@ -9,7 +9,7 @@ superuser: true
 authors:
   - admin
 bio: I am interested in the field of natural language processing research.
-research interests:
+interests:
   - Web/Public Opinion Analysis
   - Semantic Understanding
   - MultiModal Analysis
