@@ -1,6 +1,6 @@
 ---
 title: Study&Chat
-summary: 智能线上教学平台
+summary: Intelligent online teaching platform
 tags:
 - development_projects
 date: "2018-02-01"
@@ -25,8 +25,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-担任产品经理 基本界面搭建
+Acting as product manager
 
-- 项目描述：使用PHP/HTML作为开发语言，ThinkPHP作为基本框架，开发具有内容、用户管理、推荐系统的智能课堂平台。
-
-- 负责部分：网站功能分析，框架设计，整体规划，MySQL数据库设计，基本界面搭建。
+- Project Description: Using PHP/HTML as the development language and ThinkPHP as the basic framework to develop an intelligent classroom platform with content, user management, and recommendation system.
+- Responsible part: website functional analysis, framework design, overall planning, MySQL database design, essential interface building.

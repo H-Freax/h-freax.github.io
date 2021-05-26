@@ -1,6 +1,6 @@
 ---
-title: Study&Chat
-summary: 智能线上教学平台
+title: 50-hour volunteer platform
+summary: http://50hours.top/
 tags:
 - development_projects
 date: "2018-02-01"
@@ -25,8 +25,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-担任产品经理 基本界面搭建
+As a technical member
 
-- 项目描述：使用PHP/HTML作为开发语言，ThinkPHP作为基本框架，开发具有内容、用户管理、推荐系统的智能课堂平台。
+- Net as the development language and the volunteer management system based on the MVC model.
 
-- 负责部分：网站功能分析，框架设计，整体规划，MySQL数据库设计，基本界面搭建。
+- Responsible for parts: website requirement analysis, functional analysis, Windows 2008 R2 server construction, post-testing, and some page adjustments.
+
+- Completion status: The website was officially launched in January 2019. http://50hours.top/

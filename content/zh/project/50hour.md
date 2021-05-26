@@ -1,6 +1,6 @@
 ---
 title: 50小时义工平台
-summary: 使用.Net作为开发语言，基于MVC模式开发的义工管理系统。
+summary: http://50hours.top/
 tags:
 - development_projects
 date: "2018-02-01"
@@ -31,4 +31,4 @@ slides: ""
 
 - 负责部分：网站需求分析，功能分析，Windows 2008 R2服务器的搭建，后期测试以及部分页面调整。
 
-- 完成情况：2019年1月网站正式上线。
+- 完成情况：2019年1月网站正式上线。http://50hours.top/
