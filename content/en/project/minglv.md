@@ -1,6 +1,6 @@
 ---
 title: Ming Law
-summary: Built a legal platform based on big data and artificial intelligence technologies
+summary: A legal platform based on big data and artificial intelligence technology to serve legal practitioners and consultants
 tags:
 - nlp_program
 date: "2019-01-01"
