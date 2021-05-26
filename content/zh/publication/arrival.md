@@ -1,5 +1,5 @@
 +++
-title = "Arrival management device of new energy vehicle"
+title = "Arrival management device of new energy vehicle (patent)"
 
 # Date first published.
 date = "2019"

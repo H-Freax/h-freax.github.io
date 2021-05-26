@@ -1,5 +1,5 @@
 +++
-title = "Convenient and fast type automobile solar protection device"
+title = "Convenient and fast type automobile solar protection device (patent)"
 
 # Date first published.
 date = "2018"

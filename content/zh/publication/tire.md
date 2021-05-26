@@ -1,5 +1,5 @@
 +++
-title = "Tire leakage speed detecting device"
+title = "Tire leakage speed detecting device (patent)"
 
 # Date first published.
 date = "2018"

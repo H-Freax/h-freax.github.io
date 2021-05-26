@@ -5,7 +5,7 @@ title = "Analysis of football game performance based on social network (in press
 date = "2021"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "*Y. Qian*", "匿名"]
+authors = [ "*Y. Qian*", "anonymous"]
 
 # Publication type.
 # Legend:
@@ -30,13 +30,13 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["ei"]
+projects = ["football"]
 
 # Links (optional).
 url_pdf = ""

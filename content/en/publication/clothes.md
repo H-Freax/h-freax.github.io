@@ -1,5 +1,5 @@
 +++
-title = "Clothes conveying device based on big data of fitting room"
+title = "Clothes conveying device based on big data of fitting room (patent)"
 
 # Date first published.
 date = "2018"

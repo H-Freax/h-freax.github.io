@@ -1,5 +1,5 @@
 +++
-title = "Fireproof wireless base station"
+title = "Fireproof wireless base station (patent)"
 
 # Date first published.
 date = "2018"

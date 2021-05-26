@@ -1,5 +1,5 @@
 +++
-title = "Auxiliary construction terminal for construction worker"
+title = "Auxiliary construction terminal for construction worker (patent)"
 
 # Date first published.
 date = "2018"
