@@ -10,10 +10,11 @@ authors:
   - admin
 bio: 我对自然语言处理研究领域感兴趣
 interests:
-  - 舆情分析
-  - 知识图谱
+  - 网络/舆论分析
   - 语义理解
-  - 多模态
+  - 多模态分析
+  - 强化学习
+  - 图谱神经网络
 social:
   - icon_pack: ai
     icon: cv

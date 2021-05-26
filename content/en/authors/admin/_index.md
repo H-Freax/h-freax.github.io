@@ -10,10 +10,11 @@ authors:
   - admin
 bio: I am interested in the field of natural language processing research.
 interests:
-  - Opinion Analysis
-  - Knowledge Graph
+  - Web/Public Opinion Analysis
   - Semantic Understanding
-  - Multimodal
+  - MultiModal Analysis
+  - Reinforcement Learning
+  - Graph Neural Network
 social:
   - icon_pack: ai
     icon: cv
