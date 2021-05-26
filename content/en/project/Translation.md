@@ -3,7 +3,7 @@ title: Bristol-Myers Squibb – Molecular Translation
 summary: Converted images back to the underlying chemical structure annotated as InChI text
 tags:
 - cv_program
-date: "2019-01-01"
+date: "2021-04-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
