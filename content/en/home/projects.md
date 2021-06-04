@@ -46,6 +46,10 @@ subtitle = ""
        name = "Development Projects"
        tag = "development_projects"
 
+     [[content.filter_button]]
+       name = "CV Program"
+       tag = "cv_program"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
