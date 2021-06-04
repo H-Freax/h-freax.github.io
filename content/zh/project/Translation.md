@@ -1,5 +1,5 @@
 ---
-title: 百时美施贵宝 - 分子翻译
+title: 百时美施贵宝 - 分子翻译 (Kaggle 88/874, top11\%)
 summary: 将化学分子式图像转换回作为InChI文本注释的基础化学结构
 tags:
 - cv_program
