@@ -30,3 +30,4 @@ Independent Project
 - Converted images back to the underlying chemical structure annotated as InChI text
 - Used Resnet101d as the encoder, Transformer as the decoder, and Ranger Optimizer as the optimizer
 - Achieved a loss rate on the validation set is 0.4%, the average edit distance is 6, and the average edit distance on the test set is 1.88
+

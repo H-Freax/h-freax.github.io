@@ -28,4 +28,4 @@ slides: ""
 Independent Project
 
 - Responsible for the part: based on the crawled hungry Wenzhou Chashan University City can be delivered to the store information, using SpringMVC as the server-side, based on
-Okhttp+rxjava+retrofit for the Android side of the network request packaging, which designed the part of the recommendation system, due to the small amount of data, collaborative filtering algorithms based on items in Mashout, the basic recommendations.
+Okhttp+rxjava+retrofit for the Android side of the network request packaging, which designed the part of the recommendation system, due to the small amount of data, collaborative filtering algorithms based on items in Mahout, the basic recommendations.
