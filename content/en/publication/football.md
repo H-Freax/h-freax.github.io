@@ -19,7 +19,7 @@ authors = [ "*Y. Qian*", "Anonymous"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "2021 International Conference on Cloud Computing, Big Data and Digital Economy (ICCBD 2021)"
+publication = "2021 International Academic Conference on Machine Learning, Big Data and Statistics, Financial Information Technology (ICMBSF 2021)"
 
 
 # Abstract and optional shortened version.
