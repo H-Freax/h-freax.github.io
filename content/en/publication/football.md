@@ -1,8 +1,8 @@
 +++
-title = "Analysis of football game performance based on social network (in press)"
+title = "Analysis of football game performance based on social network"
 
 # Date first published.
-date = "2021"
+date = "2022"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "*Y. Qian*", "Anonymous"]
