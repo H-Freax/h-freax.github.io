@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2020-05-13"
-  date_end = ""
+  date_end = "2021-09-01"
   description = """
   In-service period
   - Independently developed a VC++-based DBI tool from scratch for exporting and importing fromAccess to Oracle, improving deployment efficiency by 30%·

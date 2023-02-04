@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "中国浙江"
   date_start = "2020-05-13"
-  date_end = ""
+  date_end = "2021-09-01"
   description ="""
   在职期间
   - 两周内独立从头学习开发了一个基于VC++的DBI工具，用于从Access端到Oracle端的导出和导入，提高了30%的部署效率。
