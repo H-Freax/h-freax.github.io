@@ -20,8 +20,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "William & Mary"
   organization_url = ""
-  title = " the travel award to the William & Mary Computer Science Symposium in Williamsburg,
-Virginia"
+  title = " the travel award to the William & Mary Computer Science Symposium in Williamsburg, Virginia"
   url = ""
   certificate_url = ""
   date_start = "2023-11-03"
