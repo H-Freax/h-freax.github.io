@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "William & Mary"
+  organization_url = ""
+  title = " the travel award to the William & Mary Computer Science Symposium in Williamsburg,
+Virginia"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-11-03"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Wenzhou University"

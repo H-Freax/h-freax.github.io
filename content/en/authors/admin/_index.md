@@ -39,7 +39,7 @@ user_groups:
   - Visitors
 ---
 
-I'm a graduate student in the program of Information System at Northeastern University.  Graduated from the Wenzhou University of Technology, I have practiced Wenzhou News-based news opinion analysis under the guidance of Prof. Xianming Wang from Wenzhou Bopu Big Data Research Institute and was responsible for helping to guide students in text-based data mining at the Institute of Modeling and Data Mining at Wenzhou University under the responsibility of Associate Prof. Xu Xu.    During this study process, I was very interested in the directions listed in the research interests.
+I am currently a graduate student in the Information System program at Northeastern University, serving as a Research Intern in The Helping Hands Lab led by Dr. Robert Platt. I graduated from Wenzhou University of Technology, where I actively engaged in news sentiment analysis based on Wenzhou News under the guidance of Professor Xianming Wang at Wenzhou Bopu Big Data Research Institute. Additionally, I had the opportunity to assist in guiding students in text-based data mining at the Institute of Modeling and Data Mining at Wenzhou University, under the leadership of Associate Professor Xu Xu. Throughout my academic journey, I have developed a profound interest in the research areas outlined in my interests.
 
 
 If you have any ideas, please [contact me](#contact).
