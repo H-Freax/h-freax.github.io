@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Boston, MA"
   date_start = "2023-11-10"
-  date_end = "present"
+  date_end = ""
   description = """
   Keyword: Grasping Learning, Equivariant Model
   """
