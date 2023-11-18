@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Intern"
+  company = "The Helping Hands Lab"
+  company_url = ""
+  location = "Boston, MA"
+  date_start = "2023-11-10"
+  date_end = "present"
+  description = """
+  Keyword: Grasping Learning, Equivariant Model
+  """
+
+[[experience]]
   title = "Technical Manager"
   company = "Zhejiang Chongxiao Zhong Han Medical Technology Co"
   company_url = ""
