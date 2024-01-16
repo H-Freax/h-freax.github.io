@@ -1,5 +1,5 @@
 ---
-title: Yaoyao Qian
+title: Yaoyao(Freax) Qian
 role: Student
 avatar_filename: avatar.png
 organizations:
@@ -8,10 +8,10 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: I am interested in the field of Machine learning & System research.
+bio: I am interested in the field of Large Language Model & Robotic research.
 interests:
-  - Artificial Intelligence (AI)
-  - Machine Learning Systems
+  - Large Language Model
+  - Robotic
 social:
   - icon_pack: ai
     icon: cv

@@ -8,10 +8,10 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: 我对AI以及System研究领域感兴趣
+bio: 我对LLM以及机器人研究领域感兴趣
 interests:
-  - 人工智能
-  - 机器学习系统
+  - LLM
+  - 机器人
 social:
   - icon_pack: ai
     icon: cv
