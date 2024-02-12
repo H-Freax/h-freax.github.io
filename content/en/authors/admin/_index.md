@@ -63,7 +63,7 @@ If my work sparks your interest or if you have ideas to share, don't hesitate to
 - [📫 Email me](mailto:limyoonaxi@gmail.com)
 - [💼 Connect on LinkedIn](https://www.linkedin.com/in/rubyfreax)
 
-## Latest Projects and Articles
+## Open Source Projects and Articles
 
 Here you'll find my recent projects and publications, showcasing my ongoing efforts and contributions to the fields of AI, data analysis, and more.
 

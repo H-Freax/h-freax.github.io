@@ -27,6 +27,10 @@ subtitle = ""
        tag = "*"
 
      [[content.filter_button]]
+       name = "Robotic Project"
+       tag = "robotic"  
+
+     [[content.filter_button]]
        name = "Referral System Project"
        tag = "referral_system"   
 
@@ -35,7 +39,7 @@ subtitle = ""
        tag = "nlp_program"  
 
      [[content.filter_button]]
-       name = "Open Source Data Analytics Project"
+       name = "Open Source Project"
        tag = "open_source"  
 
      [[content.filter_button]]
@@ -52,7 +56,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
