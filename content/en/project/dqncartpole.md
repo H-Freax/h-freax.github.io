@@ -29,6 +29,3 @@ This project focused on applying Deep Q-Networks (DQN) to solve the CartPole pro
 - **Equivariant Model Techniques**: Applied advanced equivariant model techniques to improve the generalization of the DQN, enabling it to learn more efficiently from the environment.
 - **2x Training Speed**: Successfully achieved a twofold increase in training speed compared to conventional DQN approaches, significantly reducing the time required to reach optimal performance.
 
-
-
----

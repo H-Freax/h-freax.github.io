@@ -32,5 +32,3 @@ The Law Law project aimed at developing an intelligent question and answer bot c
 ## Repository
 
 For further insights into the project's design, implementation details, and outcomes, refer to the GitHub repository: [Law Law Project Repository](https://github.com/H-Freax/LawLaw).
-
----

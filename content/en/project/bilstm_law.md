@@ -33,4 +33,3 @@ This independent project was dedicated to the development of a Named Entity Reco
 
 For more details on the project's methodology, implementation, and results, visit the GitHub repository: [Legal Text NER Project Repository](https://github.com/H-Freax/BiLSTM-CRF_Law).
 
----

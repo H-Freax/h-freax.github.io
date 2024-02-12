@@ -28,6 +28,3 @@ The Grasping Model with Enhanced SE(2) Prediction project aimed to improve robot
 
 - **Safe-Z Prediction**: Integrated safe-z prediction into the SE(2) model to enhance the accuracy of grasping height predictions, ensuring safer and more reliable robotic grasping.
 - **Efficiency Improvements**: Reduced the training process to 300 epochs, achieving a doubling in speed compared to the 600-epoch baseline, without compromising the model's performance.
-
-
----
