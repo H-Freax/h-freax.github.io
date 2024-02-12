@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "The Helping Hands Lab"
-  company_url = ""
+  company_url = "https://www2.ccs.neu.edu/research/helpinghands"
   location = "Boston, MA"
   date_start = "2023-11-10"
   date_end = ""
