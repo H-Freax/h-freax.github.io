@@ -13,9 +13,7 @@
   contentDir = "content/zh"
   title = "钱瑶瑶的主页"
   [zh.params]
-    description = "一个本科期间学习计算机以及探索深度学习与机器学习方向的在职人员"
-    # directions = "武汉大学计算机学院大楼，比较好找"
-  	# address = {street = "靠近珞狮北路", city = "武汉", region = "湖北", postcode = "430072", country = "中国", country_code = "CN"}
+    description = "NEU IS在读"
   [[zh.menu.main]]
     name = "主页"
     url = "#about"
@@ -24,6 +22,10 @@
     name = "项目"
     url = "#projects"
     weight = 40
+#  [[zh.menu.main]]
+#    name = "项目"
+#    url = "#projects"
+#    weight = 40
 
   [[zh.menu.main]]
     name = "出版物"
