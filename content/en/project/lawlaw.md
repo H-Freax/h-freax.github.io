@@ -8,8 +8,8 @@ date: "2021-07-01"
 external_link: "https://github.com/H-Freax/LawLaw"
 
 image:
-  caption: "Image related to Law Law QnA Bot"
-  focal_point: "Smart"
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   url_code: "https://github.com/H-Freax/LawLaw"

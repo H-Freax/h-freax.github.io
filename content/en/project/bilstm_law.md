@@ -8,8 +8,8 @@ date: "2021-07-01"
 external_link: "https://github.com/H-Freax/BiLSTM-CRF_Law"
 
 image:
-  caption: "Image related to Legal Text NER"
-  focal_point: "Smart"
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   url_code: "https://github.com/H-Freax/BiLSTM-CRF_Law"

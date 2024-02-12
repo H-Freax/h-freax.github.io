@@ -8,8 +8,8 @@ date: "2023-12-01"
 external_link: ""
 
 image:
-  caption: "Image related to Equivariant DQN in CartPole"
-  focal_point: "Smart"
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   url_code: ""

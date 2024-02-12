@@ -8,8 +8,8 @@ date: "2023-11-01"
 external_link: ""
 
 image:
-  caption: "Image related to Grasping Model with Enhanced SE(2) Prediction"
-  focal_point: "Smart"
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   url_code: ""

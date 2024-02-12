@@ -8,8 +8,8 @@ date: "2022-03-04"
 external_link: ""
 
 image:
-  caption: "Photo by Nvidia on Unsplash"
-  focal_point: "Smart"
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   url_code: "https://github.com/H-Freax/CUDA_optimization"

@@ -9,8 +9,8 @@ date: "2023-10-12"
 external_link: ""
 
 image:
-  caption: "Photo by rawpixel on Unsplash"
-  focal_point: "Smart"
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
 url_code: "https://github.com/H-Freax/Course-selection-system-based-on-Swing"
