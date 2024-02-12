@@ -42,12 +42,9 @@ user_groups:
   - Visitors
 ---
 
-# Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
+## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
 Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt.
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=H-Freax.H-Freax)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/H-Freax)
 
 ## About Me
 
