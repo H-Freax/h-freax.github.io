@@ -1,6 +1,6 @@
 ---
-title: "University Information Management System Project"
-summary: "A comprehensive digital platform aimed at revolutionizing traditional university information systems by centralizing data management and enhancing user experience for students, professors, and administrative staff."
+title: University Information Management System Project
+summary: A comprehensive digital platform aimed at revolutionizing traditional university information systems by centralizing data management and enhancing user experience for students, professors, and administrative staff.
 tags:
 - development_projects
 date: "2023-10-12"

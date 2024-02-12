@@ -1,6 +1,6 @@
 ---
-title: "Legal Text Named Entity Recognition (NER) Project"
-summary: "An Independent Project focused on developing a Named Entity Recognition system for legal texts using PyTorch with a BiLSTM + CRF architecture."
+title: Legal Text Named Entity Recognition (NER) Project
+summary: An Independent Project focused on developing a Named Entity Recognition system for legal texts using PyTorch with a BiLSTM + CRF architecture.
 tags:
 - nlp_program
 date: "2021-07-01"

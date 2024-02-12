@@ -1,6 +1,6 @@
 ---
-title: "Equivariant DQN in CartPole"
-summary: "A project that implements Deep Q-Networks (DQN) in OpenAI Gym's CartPole environment, employing equivariant model techniques to achieve faster training speeds."
+title: Equivariant DQN in CartPole
+summary: A project that implements Deep Q-Networks (DQN) in OpenAI Gym's CartPole environment, employing equivariant model techniques to achieve faster training speeds.
 tags:
 - robotic
 date: "2023-12-01"

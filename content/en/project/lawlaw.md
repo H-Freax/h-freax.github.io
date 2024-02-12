@@ -1,6 +1,6 @@
 ---
-title: "Law Law: Legal Question Answering Bot"
-summary: "An Independent Project leveraging PyTorch to develop a question and answer bot based on a legal-like question and answer dataset using a Seq2Seq model."
+title: Law Law A Legal Question Answering Bot
+summary: An Independent Project leveraging PyTorch to develop a question and answer bot based on a legal-like question and answer dataset using a Seq2Seq model.
 tags:
 - nlp_program
 date: "2021-07-01"

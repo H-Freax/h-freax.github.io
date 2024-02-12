@@ -1,6 +1,6 @@
 ---
-title: "Grasping Model with Enhanced SE(2) Prediction"
-summary: "This project enhances a robotic grasping model using PyTorch by integrating safe-z prediction into an SE(2) model, achieving faster training and optimization for patch-based input."
+title: Grasping Model with Enhanced SE(2) Prediction
+summary: This project enhances a robotic grasping model using PyTorch by integrating safe-z prediction into an SE(2) model, achieving faster training and optimization for patch-based input.
 tags:
 - robotic
 date: "2023-11-01"

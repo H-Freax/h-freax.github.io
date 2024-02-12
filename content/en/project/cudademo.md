@@ -1,6 +1,6 @@
 ---
-title: "CUDA Optimization Techniques for Matrix Operations"
-summary: "This project delves into optimizing matrix operations using CUDA, demonstrating iterative improvements in addition and multiplication algorithms to enhance performance on GPU architectures."
+title: CUDA Optimization Techniques for Matrix Operations
+summary: This project delves into optimizing matrix operations using CUDA, demonstrating iterative improvements in addition and multiplication algorithms to enhance performance on GPU architectures.
 tags:
 - open_source
 date: "2022-03-04"
