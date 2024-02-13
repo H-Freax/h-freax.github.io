@@ -6,14 +6,14 @@ tags:
 date: "2021-07-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/H-Freax/BiLSTM-CRF_Law"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/H-Freax/BiLSTM-CRF_Law"
 url_pdf: ""
 url_slides: ""
 url_video: ""

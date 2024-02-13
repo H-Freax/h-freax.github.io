@@ -6,7 +6,7 @@ tags:
 date: "2018-02-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://50hours.top/"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
