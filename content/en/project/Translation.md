@@ -1,5 +1,5 @@
 ---
-title: Bristol-Myers Squibb – Molecular Translation (Kaggle 88/874, top11\%)
+title: Bristol-Myers Squibb – Molecular Translation (Kaggle 88/874, top11%)
 summary: Converted images back to the underlying chemical structure annotated as InChI text
 tags:
 - cv_program
