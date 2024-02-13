@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://github.com/H-Freax/CUDA_optimization"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
