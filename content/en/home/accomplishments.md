@@ -108,6 +108,27 @@ date_format = "Jan 2006"
   date_end = "2019-03-01"
   description = ""
 
+[[item]]
+  organization = "China Undergraduate Mathematical Contest in Modeling (CUMCM), Zhejiang Division Organizing Committee"
+  organization_url = ""
+  title = "Third Prize in the 2018 CUMCM Zhejiang Province Division"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-04-01"  # Assuming a hypothetical date; please adjust accordingly.
+  date_end = ""
+  description = "Recognized for commendable achievement in the Zhejiang Province division of the national-level Mathematical Modeling Competition among undergraduate students in China."
+
+
+[[item]]
+  organization = "China Undergraduate Mathematical Contest in Modeling (CUMCM), Zhejiang Division Organizing Committee"
+  organization_url = ""
+  title = "First Prize in the 2019 CUMCM Zhejiang Province Division"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-04-01"  # Assuming a hypothetical date; please adjust accordingly.
+  date_end = ""
+  description = "Awarded for exceptional achievement and securing the top position in the Zhejiang Province division of the national-level Mathematical Modeling Competition among undergraduate students in China."
+
 
 [[item]]
   organization = "China Electrical Engineering Society National Student Electrical and Mathematical Modeling Competition Committee"
