@@ -15,7 +15,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4"
 url_video: ""
 
 # Slides (optional).
