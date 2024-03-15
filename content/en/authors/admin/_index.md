@@ -44,7 +44,7 @@ user_groups:
 
 ## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
-Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt.
+Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
 
 ## About Me
 
@@ -53,8 +53,8 @@ After earning my degree from Wenzhou University of Technology, where I dived dee
 ## What I'm Up To
 
 - 🌱 I’m currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions.
-- 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi).
-- 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax).
+- 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
+- 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on the PATPAT project. Check out the product introduction on [YouTube](https://studio.youtube.com/video/mtMAw2oCKwg/edit). I'm delighted to announce that we secured the 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon, showcasing the innovative potential of our work.
 
 ## Connect With Me
 
@@ -70,6 +70,8 @@ Here you'll find my recent projects and publications, showcasing my ongoing effo
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
 - 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
 - ✍️ [Mastering CartPole with Enhanced Deep Q-Networks](https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4)
+- 🎓 [RAG Tutorial: Start from Athena's Oracle](https://medium.com/@limyoonaxi/rag-tutorial-start-from-athenas-oracle-1-fb9c7b77b0f1) - An in-depth guide to Retrieval-Augmented Generation for deep learning.
+- 🚀 [PATPAT Project Introduction](https://studio.youtube.com/video/mtMAw2oCKwg/edit) - Explore my latest project on YouTube, showcasing innovative uses of AI and data analysis. Proudly, this project achieved 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon.
 
 Thank you for visiting my page. Let's make something great together!
 

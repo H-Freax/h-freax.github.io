@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[item]]
+  organization = ""
+  organization_url = "https://papers2products.com/"
+  title = " 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon"
+  url = "https://papers2products.com/"
+  certificate_url = ""
+  date_start = "2024-03-14"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "William & Mary"
   organization_url = ""
