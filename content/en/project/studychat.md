@@ -9,7 +9,7 @@ date: "2018-02-01"
 external_link: ""
 
 image:
-  caption: '/img/studychat.png'
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:

@@ -9,7 +9,7 @@ date: "2019-01-01"
 external_link: ""
 
 image:
-  caption: '/img/minglv.png'
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
