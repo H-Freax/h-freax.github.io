@@ -2,7 +2,7 @@
 title = "Arrival management device of new energy vehicle (patent)"
 
 # Date first published.
-date = "2019"
+date = "2023"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "*Y. Qian*"]
