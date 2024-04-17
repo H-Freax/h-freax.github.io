@@ -9,7 +9,7 @@ date: "2024-02-20"
 external_link: ""
 
 image:
-  caption: img/patpat.png
+  caption: '/img/patpat.png'
   focal_point: Smart
 
 links:

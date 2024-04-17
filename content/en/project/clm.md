@@ -9,7 +9,7 @@ date: "2019-01-01"
 external_link: ""
 
 image:
-  caption: img/clm.png
+  caption: '/img/clm.png'
   focal_point: Smart
 
 links:

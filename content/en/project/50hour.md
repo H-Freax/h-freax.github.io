@@ -9,7 +9,7 @@ date: "2018-02-01"
 external_link: ""
 
 image:
-  caption: img/50hour.png
+  caption: '/img/50hour.png'
   focal_point: Smart
 
 links:
