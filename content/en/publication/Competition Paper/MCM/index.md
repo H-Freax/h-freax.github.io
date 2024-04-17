@@ -2,7 +2,7 @@
 title = "Optimizing Drone-Based Medical Supply Delivery in Disaster-Affected Areas: A Case Study from Puerto Rico"
 
 # Date first published.
-date = "2019"
+date = "2024-04-17T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Yaoyao Qian"," Tiantian Fu", "Binbin Zhuge", "Xinze Lian"]

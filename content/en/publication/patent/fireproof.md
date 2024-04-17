@@ -2,7 +2,7 @@
 title = "Fireproof wireless base station (patent)"
 
 # Date first published.
-date = "2018"
+date =  "2021-02-26T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "*Y. Qian*"]
@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

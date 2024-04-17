@@ -2,7 +2,7 @@
 title = "Convenient and fast type automobile solar protection device (patent)"
 
 # Date first published.
-date = "2018"
+date =  "2018-10-19T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "*Y. Qian*"]

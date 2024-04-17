@@ -2,7 +2,7 @@
 title = "Optimal Design of Parking Lots through Mathematical Modeling: Addressing Space Constraints and Vehicle Accessibility"
 
 # Date first published.
-date = "2018"
+date = "2024-04-17T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Yaoyao Qian","Mengmeng Cai","Rongxiang Lu"]

@@ -2,7 +2,7 @@
 title = "Analysis of football game performance based on social network"
 
 # Date first published.
-date = "2022"
+date = "2022-12-02T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Yaoyao Qian", "Xianming Wang"]

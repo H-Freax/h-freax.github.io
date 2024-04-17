@@ -2,7 +2,7 @@
 title = "Dual-purpose grabbing device with good supporting property for automobile tire (patent)"
 
 # Date first published.
-date = "2018"
+date = "2018-10-19T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "*Y. Qian*"]
@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
