@@ -5,7 +5,7 @@ title = "Analysis of football game performance based on social network"
 date = "2022"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "*Y. Qian*", "Anonymous"]
+authors = [ "Yaoyao Qian", "Xianming Wang"]
 
 # Publication type.
 # Legend:
