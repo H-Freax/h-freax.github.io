@@ -9,7 +9,7 @@ date: "2023-10-12"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: University Information Management System Project
   focal_point: Smart
 
 links:

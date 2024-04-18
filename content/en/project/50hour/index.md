@@ -9,7 +9,7 @@ date: "2018-02-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 50-hour volunteer platform
   focal_point: Smart
 
 links:

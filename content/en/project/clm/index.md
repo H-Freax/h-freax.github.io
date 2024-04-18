@@ -9,7 +9,7 @@ date: "2019-01-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Chi Le Ma
   focal_point: Smart
 
 links:
