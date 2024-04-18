@@ -9,7 +9,7 @@ date: "2024-03-20"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Athenas Oracle
   focal_point: Smart
 
 links:

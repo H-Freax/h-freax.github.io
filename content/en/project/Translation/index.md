@@ -9,7 +9,7 @@ date: "2021-04-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Bristol-Myers Squibb – Molecular Translation
   focal_point: Smart
 
 links:

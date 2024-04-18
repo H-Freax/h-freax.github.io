@@ -9,7 +9,7 @@ date: "2018-10-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Yao Yi Yao
   focal_point: Smart
 
 links:
