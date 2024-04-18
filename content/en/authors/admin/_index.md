@@ -71,7 +71,7 @@ Here you'll find my recent projects and publications, showcasing my ongoing effo
 - 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
 - ✍️ [Mastering CartPole with Enhanced Deep Q-Networks](https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4)
 - 🎓 [RAG Tutorial: Start from Athena's Oracle](https://medium.com/@limyoonaxi/rag-tutorial-start-from-athenas-oracle-1-fb9c7b77b0f1) - An in-depth guide to Retrieval-Augmented Generation for deep learning.
-- 🚀 [PATPAT Project Introduction](https://studio.youtube.com/video/mtMAw2oCKwg/edit) - Explore my latest project on YouTube, showcasing innovative uses of AI and data analysis. Proudly, this project achieved 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon.
+- 🚀 [PATPAT Project Introduction](https://youtu.be/mtMAw2oCKwg) - Explore my latest project on YouTube, showcasing innovative uses of AI and data analysis. Proudly, this project achieved 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon.
 
 Thank you for visiting my page. Let's make something great together!
 
