@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
+  company = "the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign"
+  company_url = "https://infoaccesslab.web.illinois.edu/"
+  location = "Champaign, IL"
+  date_start = "2024-05-01"
+  date_end = ""
+  description = """
+
+  """
+
+
+[[experience]]
+  title = "Research Assistant"
   company = "The Helping Hands Lab"
   company_url = "https://www2.ccs.neu.edu/research/helpinghands"
   location = "Boston, MA"

@@ -8,10 +8,11 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: I am interested in the field of Large Language Model & Robotic research.
+bio: I am interested in the field of Large Language Model & Robotic & Human–computer Interaction research.
 interests:
   - Large Language Model
   - Robotic
+  - Human–computer Interaction
 social:
   - icon_pack: ai
     icon: cv
@@ -46,13 +47,15 @@ user_groups:
 
 Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
 
+Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
+
 ## About Me
 
 After earning my degree from Wenzhou University of Technology, where I dived deep into news sentiment analysis with Professor Xianming Wang at Wenzhou Bopu Big Data Research Institute, my passion for data-driven insights and technology only grew stronger. My time assisting Associate Professor Xu Xu at the Institute of Modeling and Data Mining further solidified my interest in text-based data mining, laying a solid foundation for my current research endeavors.
 
 ## What I'm Up To
 
-- 🌱 I’m currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions.
+- 🌱 I'm currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions. Additionally, I'm actively engaged in HCI research, focusing on enhancing the user experience and accessibility of digital technologies.
 - 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
 - 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on the PATPAT project. Check out the product introduction on [YouTube](https://studio.youtube.com/video/mtMAw2oCKwg/edit). I'm delighted to announce that we secured the 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon, showcasing the innovative potential of our work.
 
