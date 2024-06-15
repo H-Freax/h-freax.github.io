@@ -42,7 +42,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
 ## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
 Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
@@ -51,31 +50,25 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 
 ## About Me
 
-After earning my degree from Wenzhou University of Technology, where I dived deep into news sentiment analysis with Professor Xianming Wang at Wenzhou Bopu Big Data Research Institute, my passion for data-driven insights and technology only grew stronger. My time assisting Associate Professor Xu Xu at the Institute of Modeling and Data Mining further solidified my interest in text-based data mining, laying a solid foundation for my current research endeavors.
+I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co., improving system efficiencies. After earning my degree from Wenzhou University of Technology, where I worked on news sentiment analysis with Professor Xianming Wang, my interest in text-based data mining grew while assisting Associate Professor Xu Xu. 
 
 ## What I'm Up To
 
-- 🌱 I'm currently exploring the vast and exciting field of robotics, aiming to leverage my skills in information systems and data analysis to contribute to innovative solutions. Additionally, I'm actively engaged in HCI research, focusing on enhancing the user experience and accessibility of digital technologies.
-- 📝 Sharing my journey and insights through articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi), including my latest article on RAG technology in "Athena's Oracle."
-- 🚀 Engaging with the open-source community through projects and collaborations on [GitHub](https://github.com/H-Freax), featuring my latest work on the PATPAT project. Check out the product introduction on [YouTube](https://studio.youtube.com/video/mtMAw2oCKwg/edit). I'm delighted to announce that we secured the 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon, showcasing the innovative potential of our work.
+- 🌱 Exploring robotics and AI to develop innovative solutions.
+- 📝 Writing articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi).
+- 🚀 Engaging with the open-source community on [GitHub](https://github.com/H-Freax), including my latest project, [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1), which provides a stable and reliable implementation of these tools.
 
 ## Connect With Me
-
-If my work sparks your interest or if you have ideas to share, don't hesitate to reach out. Let's connect and explore the possibilities together!
 
 - [📫 Email me](mailto:limyoonaxi@gmail.com)
 - [💼 Connect on LinkedIn](https://www.linkedin.com/in/rubyfreax)
 
 ## Open Source Projects and Articles
 
-Here you'll find my recent projects and publications, showcasing my ongoing efforts and contributions to the fields of AI, data analysis, and more.
-
 - 🌟 [CUDA Optimization](https://github.com/H-Freax/CUDA_optimization)
 - 📊 [LendingClub Analysis](https://github.com/H-Freax/lendingclub_analyse)
 - ✍️ [Mastering CartPole with Enhanced Deep Q-Networks](https://medium.com/@limyoonaxi/mastering-cartpole-with-enhanced-deep-q-networks-an-in-depth-guide-to-equivariant-models-f7600d6118a4)
-- 🎓 [RAG Tutorial: Start from Athena's Oracle](https://medium.com/@limyoonaxi/rag-tutorial-start-from-athenas-oracle-1-fb9c7b77b0f1) - An in-depth guide to Retrieval-Augmented Generation for deep learning.
-- 🚀 [PATPAT Project Introduction](https://youtu.be/mtMAw2oCKwg) - Explore my latest project on YouTube, showcasing innovative uses of AI and data analysis. Proudly, this project achieved 3rd Place in the Inter-Disciplinary Category at the paper2product hackathon.
+- 🎓 [RAG Tutorial: Start from Athena's Oracle](https://medium.com/@limyoonaxi/rag-tutorial-start-from-athenas-oracle-1-fb9c7b77b0f1)
+- 🚀 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
 
 Thank you for visiting my page. Let's make something great together!
-
-If you have any ideas, please [contact me](#contact).
