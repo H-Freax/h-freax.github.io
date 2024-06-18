@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,9 +39,8 @@ selected = true
 projects = ["imaginepolicy"]
 
 # Links (optional).
-url_website = "https://haojhuang.github.io/edge_grasp_page/"
 url_pdf = "https://arxiv.org/pdf/2406.11740"
-url_preprint = "https://arxiv.org/pdf/2406.11740"
+url_preprint = "https://haojhuang.github.io/edge_grasp_page/"
 url_code = ""
 url_dataset = ""
 url_project = ""
