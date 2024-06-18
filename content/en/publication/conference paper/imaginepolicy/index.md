@@ -39,6 +39,7 @@ selected = true
 projects = ["imaginepolicy"]
 
 # Links (optional).
+
 url_pdf = "https://arxiv.org/pdf/2406.11740"
 url_preprint = "https://arxiv.org/pdf/2406.11740"
 url_code = ""
@@ -47,11 +48,11 @@ url_project = ""
 url_slides = ""
 url_video = "https://www.youtube.com/watch?v=EpYUDb8bUP4"
 url_poster = ""
-url_source = "https://haojhuang.github.io/imagine_page/"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Website", url = "https://haojhuang.github.io/edge_grasp_page/"}]
 
 # Does the content use math formatting?
 math = true
