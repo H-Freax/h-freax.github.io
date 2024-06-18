@@ -5,7 +5,7 @@ title = "IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Ma
 date = "2024-06-17T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Haojie Huang", "Karl Schmeckpeper", "Dian Wang", "Ondrej Biza", "**Yaoyao Qian**", "Haotian Liu", "Mingxi Jia", "Robert Platt", "Robin Walters"]
+authors = [ "Haojie Huang", "Karl Schmeckpeper", "Dian Wang", "Ondrej Biza", "*Yaoyao Qian*", "Haotian Liu", "Mingxi Jia", "Robert Platt", "Robin Walters"]
 
 # Publication type.
 # Legend:
@@ -43,11 +43,11 @@ url_pdf = "https://arxiv.org/pdf/2406.11740"
 url_preprint = "https://arxiv.org/pdf/2406.11740"
 url_code = ""
 url_dataset = ""
-url_project = "https://haojhuang.github.io/imagine_page/"
+url_project = ""
 url_slides = ""
 url_video = "https://www.youtube.com/watch?v=EpYUDb8bUP4"
 url_poster = ""
-url_source = ""
+url_source = "https://haojhuang.github.io/imagine_page/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
