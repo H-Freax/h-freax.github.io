@@ -74,11 +74,11 @@ I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technolo
 ## Meet My Pets
 
 ### Lucas
-![Lucas](img/lucas.png)
+<img alt="Lucas" height="100px" src="img/lucas.png" width="100px"/>
 Lucas is a very self-important cat. Although he looks unhappy most days, he actually loves to be pampered. Every day, he makes sure to find time to come to me for cuddles and pets.
 
 ### Cookie
-![Cookie](img/cookie.png)
+<img alt="Cookie" height="100px" src="img/cookie.png" width="100px"/>
 Cookie is a dog that's extremely attached to her owner. She loves following me around and seems like she can't be apart from me at all. Cookie has a cheerful personality and is always smiling, giving off a happy vibe. She seems like she's happy 25 hours a day!
 
 Thank you for visiting my page. Let's make something great together!
