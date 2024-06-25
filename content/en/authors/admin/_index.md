@@ -71,4 +71,14 @@ I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technolo
 - 🎓 [RAG Tutorial: Start from Athena's Oracle](https://medium.com/@limyoonaxi/rag-tutorial-start-from-athenas-oracle-1-fb9c7b77b0f1)
 - 🚀 [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1) - Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). This version consolidates all necessary fixes and improvements, providing a stable and reliable implementation.
 
+## Meet My Pets
+
+### Lucas the Cat
+![Lucas](lucas.png)
+Lucas is a very self-important cat. Although he looks unhappy most days, he actually loves to be pampered. Every day, he makes sure to find time to come to me for cuddles and pets.
+
+### Cookie the Dog
+![Cookie](cookie.png)
+Cookie is a dog that's extremely attached to her owner. She loves following me around and seems like she can't be apart from me at all. Cookie has a cheerful personality and is always smiling, giving off a happy vibe. She seems like she's happy 25 hours a day!
+
 Thank you for visiting my page. Let's make something great together!
