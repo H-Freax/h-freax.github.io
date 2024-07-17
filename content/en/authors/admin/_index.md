@@ -52,6 +52,10 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 
 I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co., improving system efficiencies. After earning my degree from Wenzhou University of Technology, where I worked on news sentiment analysis with Professor Xianming Wang, my interest in text-based data mining grew while assisting Associate Professor Xu Xu. 
 
+## News!!!!
+- My paper is out now! 🌟
+- [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
+- [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
 ## What I'm Up To
 
 - 🌱 Exploring robotics and AI to develop innovative solutions.
