@@ -53,9 +53,11 @@ Additionally, I'm also a Research Assistant at the Information Experience and Ac
 I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co., improving system efficiencies. After earning my degree from Wenzhou University of Technology, where I worked on news sentiment analysis with Professor Xianming Wang, my interest in text-based data mining grew while assisting Associate Professor Xu Xu. 
 
 ## News!!!!
-- My paper is out now! 🌟
-- [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
-- [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
+- Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
+  - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
+  - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
+- I’m excited to soon begin my **Machine Learning Co-op with Lendbuzz**!
+
 ## What I'm Up To
 
 - 🌱 Exploring robotics and AI to develop innovative solutions.
@@ -84,5 +86,6 @@ Lucas is a very self-important cat. Although he looks unhappy most days, he actu
 ### Cookie
 <img alt="Cookie" height="100px" src="img/cookie.png" width="100px"/>
 Cookie is a dog that's extremely attached to her owner. She loves following me around and seems like she can't be apart from me at all. Cookie has a cheerful personality and is always smiling, giving off a happy vibe. She seems like she's happy 25 hours a day!
+
 
 Thank you for visiting my page. Let's make something great together!
