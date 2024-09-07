@@ -19,7 +19,7 @@ authors = [ "*Yaoyao Qian*", "Xupeng Zhu", "Ondrej Biza", "Shuo Jiang", "Linfeng
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Arixv Preprint"
+publication = "CoRL 2024"
 
 
 # Abstract and optional shortened version.
@@ -30,7 +30,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
