@@ -1,5 +1,5 @@
 +++
-title = "ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter"
+title = "ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter (CoRL 2024)"
 
 # Date first published.
 date = "2024-07-17T00:00:00Z"

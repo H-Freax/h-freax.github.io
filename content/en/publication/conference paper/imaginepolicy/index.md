@@ -1,5 +1,5 @@
 +++
-title = "IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies"
+title = "IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies (CoRL 2024)"
 
 # Date first published.
 date = "2024-06-17T00:00:00Z"

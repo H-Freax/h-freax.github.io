@@ -44,14 +44,18 @@ user_groups:
 ---
 ## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
-Welcome to my personal space on the internet! I'm a graduate student in the Information System program at Northeastern University, deeply immersed in the fascinating world of robotics and artificial intelligence as a Research Intern at The Helping Hands Lab under the guidance of Dr. Robert Platt. [Check out my profile on the Helping Hands Lab website!](https://www2.ccs.neu.edu/research/helpinghands/people/)
 
-Additionally, I'm also a Research Assistant at the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign, led by [Dr. Rachel F. Adler](http://rachelfadler.com), where I'm actively involved in research related to Human-Computer Interaction (HCI).
+Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University and am about to start an exciting **Machine Learning Co-op with Lendbuzz**. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
 
+I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
+
+
+This structure emphasizes the new co-op and provides a clear flow through your other roles. Does this work better for you?
 ## About Me
 
-I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technology Co., improving system efficiencies. After earning my degree from Wenzhou University of Technology, where I worked on news sentiment analysis with Professor Xianming Wang, my interest in text-based data mining grew while assisting Associate Professor Xu Xu. 
+Before stepping into graduate school, I served as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., where I developed tools and systems that improved operational efficiencies by up to 80%. At **Wenzhou University of Technology**, under the guidance of **Professors Xianming Wang** and **Xu Xu**, I focused on strategic insights for soccer teams and performed sentiment analysis on Amazon reviews. At **Wenzhou Bopu Institute of Big Data**, mentored by **Professor Xianming Wang**, I led public opinion analysis projects. I also worked with **Professor Huaqing Mao** at **MIE DEMO Studio**, where I launched an innovative volunteer management platform.
 
+_Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!_
 ## News!!!!
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
@@ -81,11 +85,10 @@ I worked as a Technical Manager at Zhejiang Chongxiao Zhong Han Medical Technolo
 
 ### Lucas
 <img alt="Lucas" height="100px" src="img/lucas.png" width="100px"/>
-Lucas is a very self-important cat. Although he looks unhappy most days, he actually loves to be pampered. Every day, he makes sure to find time to come to me for cuddles and pets.
+Lucas may seem a little serious, but don’t be fooled! He’s actually quite the pampered cat and loves attention. Even with his perpetually unimpressed look, he always makes time for cuddles and affection every day.
 
 ### Cookie
 <img alt="Cookie" height="100px" src="img/cookie.png" width="100px"/>
-Cookie is a dog that's extremely attached to her owner. She loves following me around and seems like she can't be apart from me at all. Cookie has a cheerful personality and is always smiling, giving off a happy vibe. She seems like she's happy 25 hours a day!
+Cookie is my constant companion—she can’t stand being apart from me! With her cheerful personality and always-smiling face, she radiates happiness. It feels like Cookie is joyful every single moment, like she’s living in a world with 25 hours of happiness each day!
 
-
-Thank you for visiting my page. Let's make something great together!
+**Thank you for visiting my page. Let's make something great together!**
