@@ -49,8 +49,6 @@ Welcome to my little corner of the internet! I’ve just wrapped up my first yea
 
 I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
 
-
-This structure emphasizes the new co-op and provides a clear flow through your other roles. Does this work better for you?
 ## About Me
 
 Before stepping into graduate school, I served as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., where I developed tools and systems that improved operational efficiencies by up to 80%. At **Wenzhou University of Technology**, under the guidance of **Professors Xianming Wang** and **Xu Xu**, I focused on strategic insights for soccer teams and performed sentiment analysis on Amazon reviews. At **Wenzhou Bopu Institute of Big Data**, mentored by **Professor Xianming Wang**, I led public opinion analysis projects. I also worked with **Professor Huaqing Mao** at **MIE DEMO Studio**, where I launched an innovative volunteer management platform.
