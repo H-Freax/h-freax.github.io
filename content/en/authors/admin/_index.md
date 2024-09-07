@@ -53,7 +53,7 @@ I’m also a Research Assistant at the **Information Experience and Accessibilit
 
 Before stepping into graduate school, I served as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., where I developed tools and systems that improved operational efficiencies by up to 80%. At **Wenzhou University of Technology**, under the guidance of **Professors Xianming Wang** and **Xu Xu**, I focused on strategic insights for soccer teams and performed sentiment analysis on Amazon reviews. At **Wenzhou Bopu Institute of Big Data**, mentored by **Professor Xianming Wang**, I led public opinion analysis projects. I also worked with **Professor Huaqing Mao** at **MIE DEMO Studio**, where I launched an innovative volunteer management platform.
 
-🌟🌟**_Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!_**🌟🌟
+🌟🌟**Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!**🌟🌟
 ## News!!!!
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
