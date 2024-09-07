@@ -21,11 +21,13 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign"
   company_url = "https://infoaccesslab.web.illinois.edu/"
-  location = "Champaign, IL"
+  location = "Champaign, IL (Remote)"
   date_start = "2024-05-01"
   date_end = ""
   description = """
-
+- Conducted research on **FinTech for Older Adults**, focusing on enhancing financial technology accessibility and usability for elderly users.  
+- Investigated **mHealth with Generative AI**, integrating AI to enhance mobile health apps aimed at promoting physical activity and healthier lifestyles.  
+- Led the development of **PAT PAT** – an Emotional Support Virtual Pet Application, integrating machine learning to improve user interaction and engagement.
   """
 
 
@@ -38,6 +40,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Keyword:  Open World Manipulation With Planning, Grasping Learning, Equivariant Model
+  
+- **Equivariant Models for Robotic Grasping**: Developed an advanced robotic grasping model incorporating SE(2) and safe-z prediction, reducing training epochs by 50%.  
+  - Implemented Equivariant DQN in CartPole, cutting training time in half, using state and image inputs.
+  - Pioneered SO(2)-equivariant reinforcement learning techniques, improving grasping tasks and reducing failed attempts by 50%.
+  
+- **Vision-Language Models for Strategic Grasping**: Integrated LLMs for "Open World Manipulation with Planning," enhancing robot adaptability in dynamic environments. Developed **ThinkGrasp**, a vision-language grasping system utilizing GPT-4o, achieving a 98.0% success rate in cluttered scenes, outperforming previous methods by over 50%.  
+  - Built a robust error-handling framework with **LangSAM**, boosting reliability in real-world experiments.
+
+- **Generative Models for Manipulation Policies**: Contributed to the development of **IMAGINATION POLICY**, a generative point cloud model for key-frame manipulation, improving success rates on RLbench tasks by 20%.  
+  - Proposed a novel multi-task key-frame policy network, increasing generalization to unseen configurations.
   """
 
 
