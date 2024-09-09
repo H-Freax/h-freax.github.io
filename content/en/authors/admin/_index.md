@@ -45,7 +45,7 @@ user_groups:
 ## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
 
-Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University and am about to start an exciting **Machine Learning Co-op with Lendbuzz**. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
+Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
 
 I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
 
@@ -58,7 +58,7 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
   - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
-- I’m excited to soon begin my **Machine Learning Co-op with Lendbuzz**!
+
 
 ## What I'm Up To
 
