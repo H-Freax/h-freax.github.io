@@ -45,9 +45,11 @@ user_groups:
 ## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
 
-Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**.
+Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m currently a **Machine Learning Engineer Co-op** at **Lendbuzz**, where I’m applying my skills in AI to solve real-world problems in the fintech space.
 
-I’m also a Research Assistant at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**, where I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) on projects focused on improving accessibility in **fintech** and **mHealth** for older adults.
+In addition, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**. I also contribute as a Research Assistant at the **CHATS Lab** (Conversation, Human-AI Technology, Security) under [Weiyan Shi](https://wyshi.github.io/), where we focus on **interactive AI systems**, **privacy-preserving AI**, and **multi-modal conversational agents**.
+
+On the accessibility front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign** on projects that aim to improve accessibility in **fintech** and **mHealth** for older adults.
 
 ## About Me
 
@@ -55,6 +57,8 @@ Before stepping into graduate school, I served as a **Technical Manager** at Zhe
 
 🌟🌟Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!🌟🌟
 ## News!!!!
+- I’ve started a **Machine Learning Engineer Co-op** at **Lendbuzz** and joined the **CHATS Lab** (Conversation, Human-AI Technology, Security) as a Research Assistant under [Weiyan Shi](https://wyshi.github.io/)!
+- [ThinkGrasp Official Code is out now!](https://github.com/H-Freax/ThinkGrasp)🔥🔥🔥🔥
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
   - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)

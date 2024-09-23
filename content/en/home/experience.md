@@ -17,6 +17,33 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Machine Learning Engineer Co-op"
+  company = "Lendbuzz"
+  company_url = "https://lendbuzz.com/"
+  location = "Boston, MA"
+  date_start = "2024-09-30"
+  date_end = ""
+  description = """
+- Worked on integrating **retrieval-augmented generation (RAG)** techniques to improve chatbot capabilities and enhance user interactions.
+- Developed scalable systems for deploying machine learning models in production environments.
+- Collaborated across teams to explore AI-driven solutions for various fintech applications.
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "CHATS Lab (Conversation, Human-AI Technology, Security) under Weiyan Shi"
+  company_url = "https://wyshi.github.io/"
+  location = "Northeastern University"
+  date_start = "2024-09-17"
+  date_end = ""
+  description = """
+- Contributing to research on advanced **interactive AI systems** with a focus on enhancing multi-modal communication technologies.
+- Exploring innovative AI applications that aim to bridge the gap between human and AI conversational experiences.
+- Investigating privacy and security concerns in the development of AI-driven interaction models.
+  """
+
 [[experience]]
   title = "Research Assistant"
   company = "the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign"

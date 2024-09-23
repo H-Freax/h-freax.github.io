@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = ""
+  organization_url = "https://openai.com/"
+  title = "Awarded a $5,000 OpenAI Credit for research and development"
+  url = "https://openai.com/"
+  certificate_url = ""
+  date_start = "2024-04-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = ""
