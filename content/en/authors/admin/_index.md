@@ -29,6 +29,9 @@ social:
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@limyoonaxi
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=E0rCXLIAAAAJ
 education:
   courses:
     - course: Master in Information System
