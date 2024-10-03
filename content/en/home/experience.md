@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Lendbuzz"
   company_url = "https://lendbuzz.com/"
   location = "Boston, MA"
-  date_start = "2024-09-30"
+  date_start = "2024-10-07"
   date_end = ""
   description = """
 - Worked on integrating **retrieval-augmented generation (RAG)** techniques to improve chatbot capabilities and enhance user interactions.
