@@ -24,11 +24,10 @@ date_format = "Jan 2006"
   company_url = "https://lendbuzz.com/"
   location = "Boston, MA"
   date_start = "2024-10-07"
-  date_end = ""
+  date_end = "2024-12-31"
   description = """
-- Worked on integrating **retrieval-augmented generation (RAG)** techniques to improve chatbot capabilities and enhance user interactions.
-- Developed scalable systems for deploying machine learning models in production environments.
-- Collaborated across teams to explore AI-driven solutions for various fintech applications.
+- **Integrated vLLM technology** into production systems, achieving a **175% inference speedup**, demonstrating expertise in optimizing large language model (LLM) deployment for real-world applications.  
+- **Annotated dialogue intents** to curate high-quality datasets, facilitating precise fine-tuning of LLMs for domain-specific tasks, enhancing model adaptability and performance.  
   """
 
 [[experience]]

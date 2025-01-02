@@ -48,24 +48,25 @@ user_groups:
 ## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
 
 
-Welcome to my little corner of the internet! I’ve just wrapped up my first year of graduate school at Northeastern University. Alongside this, I’m currently a **Machine Learning Engineer Co-op** at **Lendbuzz**, where I’m applying my skills in AI to solve real-world problems in the fintech space.
+Hi there! 🌟 As I gear up for my second year at Northeastern University, I reflect on my journey so far. My time as a **Machine Learning Engineer Co-op** at **Lendbuzz** was a standout experience. Integrating vLLM into systems and achieving a 175% inference speedup was a highlight, combining technical challenges with real-world impact. 
 
-In addition, I’m involved in **robotics and artificial intelligence** research as a Research Intern at **The Helping Hands Lab**, working under the guidance of [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) on **robotic grasping and manipulation systems**. I also contribute as a Research Assistant at the **CHATS Lab** (Conversation, Human-AI Technology, Security) under [Weiyan Shi](https://wyshi.github.io/), where we focus on **interactive AI systems**, **privacy-preserving AI**, and **multi-modal conversational agents**.
+I’m also immersed in exciting research at **The Helping Hands Lab**, guided by [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/), where I work on advancing **robotic grasping and manipulation systems**. 🤖 At the **CHATS Lab** under [Weiyan Shi](https://wyshi.github.io/), my focus lies on building **interactive AI systems**, **privacy-preserving AI**, and **multi-modal conversational agents**. 💬
 
-On the accessibility front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign** on projects that aim to improve accessibility in **fintech** and **mHealth** for older adults.
+On a different front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**. Here, I contribute to projects enhancing accessibility in **fintech** and **mHealth** for older adults. 🏦
 
 ## About Me
 
-Before stepping into graduate school, I served as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., where I developed tools and systems that improved operational efficiencies by up to 80%. At **Wenzhou University of Technology**, under the guidance of **Professors Xianming Wang** and **Xu Xu**, I focused on strategic insights for soccer teams and performed sentiment analysis on Amazon reviews. At **Wenzhou Bopu Institute of Big Data**, mentored by **Professor Xianming Wang**, I led public opinion analysis projects. I also worked with **Professor Huaqing Mao** at **MIE DEMO Studio**, where I launched an innovative volunteer management platform.
+Before grad school, I honed my skills as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., driving operational improvements of up to 80%. My academic path included impactful research at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**, where I tackled diverse projects from public opinion analysis to launching a volunteer management platform. 
 
-🌟🌟Feel free to reach out! Whether it’s for research, collaboration, or just to exchange ideas over a casual chat, I’m always open to connecting and exploring new possibilities!🌟🌟
+_**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡**_
+
+
 ## News!!!!
-- I’ve started a **Machine Learning Engineer Co-op** at **Lendbuzz** and joined the **CHATS Lab** (Conversation, Human-AI Technology, Security) as a Research Assistant under [Weiyan Shi](https://wyshi.github.io/)!
+- Invited Talk: Gave a talk at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”
 - [ThinkGrasp Official Code is out now!](https://github.com/H-Freax/ThinkGrasp)🔥🔥🔥🔥
 - Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
   - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
   - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
-
 
 ## What I'm Up To
 
