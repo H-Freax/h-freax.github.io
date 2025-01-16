@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company_url = "https://wyshi.github.io/"
   location = "Northeastern University"
   date_start = "2024-09-17"
-  date_end = ""
+  date_end = "2025-01-15"
   description = """
 - Contributing to research on advanced **interactive AI systems** with a focus on enhancing multi-modal communication technologies.
 - Exploring innovative AI applications that aim to bridge the gap between human and AI conversational experiences.
