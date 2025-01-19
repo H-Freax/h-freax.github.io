@@ -17,32 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[experience]]
-  title = "Machine Learning Engineer Co-op"
-  company = "Lendbuzz"
-  company_url = "https://lendbuzz.com/"
-  location = "Boston, MA"
-  date_start = "2024-10-07"
-  date_end = "2024-12-31"
-  description = """
-- **Integrated vLLM technology** into production systems, achieving a **175% inference speedup**, demonstrating expertise in optimizing large language model (LLM) deployment for real-world applications.  
-- **Annotated dialogue intents** to curate high-quality datasets, facilitating precise fine-tuning of LLMs for domain-specific tasks, enhancing model adaptability and performance.  
-  """
-
-[[experience]]
-  title = "Research Assistant"
-  company = "CHATS Lab (Conversation, Human-AI Technology, Security) under Weiyan Shi"
-  company_url = "https://wyshi.github.io/"
-  location = "Northeastern University"
-  date_start = "2024-09-17"
-  date_end = "2025-01-15"
-  description = """
-- Contributing to research on advanced **interactive AI systems** with a focus on enhancing multi-modal communication technologies.
-- Exploring innovative AI applications that aim to bridge the gap between human and AI conversational experiences.
-- Investigating privacy and security concerns in the development of AI-driven interaction models.
-  """
-
 [[experience]]
   title = "Research Assistant"
   company = "the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign"
@@ -77,6 +51,32 @@ date_format = "Jan 2006"
 - **Generative Models for Manipulation Policies**: Contributed to the development of **IMAGINATION POLICY**, a generative point cloud model for key-frame manipulation, improving success rates on RLbench tasks by 20%.  
   - Proposed a novel multi-task key-frame policy network, increasing generalization to unseen configurations.
   """
+
+[[experience]]
+  title = "Machine Learning Engineer Co-op"
+  company = "Lendbuzz"
+  company_url = "https://lendbuzz.com/"
+  location = "Boston, MA"
+  date_start = "2024-10-07"
+  date_end = "2024-12-31"
+  description = """
+- **Integrated vLLM technology** into production systems, achieving a **175% inference speedup**, demonstrating expertise in optimizing large language model (LLM) deployment for real-world applications.  
+- **Annotated dialogue intents** to curate high-quality datasets, facilitating precise fine-tuning of LLMs for domain-specific tasks, enhancing model adaptability and performance.  
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "CHATS Lab (Conversation, Human-AI Technology, Security) under Weiyan Shi"
+  company_url = "https://wyshi.github.io/"
+  location = "Northeastern University"
+  date_start = "2024-09-17"
+  date_end = "2025-01-15"
+  description = """
+- Contributing to research on advanced **interactive AI systems** with a focus on enhancing multi-modal communication technologies.
+- Exploring innovative AI applications that aim to bridge the gap between human and AI conversational experiences.
+- Investigating privacy and security concerns in the development of AI-driven interaction models.
+  """
+
 
 
 [[experience]]

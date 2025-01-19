@@ -45,28 +45,34 @@ user_groups:
   - Researchers
   - Visitors
 ---
-## Hi there 👋, I'm Yaoyao Qian (Freax Ruby) ✨
+## 👋 Hi there, I'm **Yaoyao Qian (Freax Ruby)** ✨
+
+As I gear up for my second year at **Northeastern University**, I reflect on my incredible journey so far. One of the standout moments was my **Machine Learning Engineer Co-op** experience at **Lendbuzz**, where I integrated **vLLM** into systems, achieving a **175% inference speedup**. 🚀  
+
+I’m currently immersed in exciting **robotics and AI research** at:  
+- 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
+- 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
+
+## About Me  
+
+Before starting my graduate studies at **Northeastern University**, my academic and professional journey centered around full-stack development while also exploring diverse areas of research and technology. During my **undergraduate years**, my coursework focused heavily on **full-stack development**, and I applied these skills to projects at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**. Notable achievements included **public opinion analysis**, **data-driven research**, and developing a **volunteer management platform**, which was recognized as a **national innovation project**.  
+
+After graduation, I worked as a **Technical Manager** and **Project Leader** at **Zhejiang Chongxiao Zhong Han Medical Technology Co.**, where I led full-stack development projects. Key contributions included creating a **VC++-based database integration tool** and a **Springboot+Vue electronic invoice management system**, achieving an **80% improvement in operational efficiency**.  
+
+Alongside my primary focus on full-stack development, I also explored other areas such as **sentiment analysis**, **knowledge graph construction**, and **user behavior modeling**, broadening my technical expertise and research interests.  
+
+In the early phase of my graduate studies, I joined the **CHATS Lab** at Northeastern University, where I worked on **chatbot-related projects**, contributing to advancements in conversational AI systems.  
 
 
-Hi there! 🌟 As I gear up for my second year at Northeastern University, I reflect on my journey so far. My time as a **Machine Learning Engineer Co-op** at **Lendbuzz** was a standout experience. Integrating vLLM into systems and achieving a 175% inference speedup was a highlight, combining technical challenges with real-world impact. 
-
-I’m also immersed in exciting research at **The Helping Hands Lab**, guided by [Dr. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/), where I work on advancing **robotic grasping and manipulation systems**. 🤖
-
-On a different front, I collaborate with [Dr. Rachel F. Adler](http://rachelfadler.com) at the **Information Experience and Accessibility Lab** at the **University of Illinois Urbana-Champaign**. Here, I contribute to projects enhancing accessibility in **fintech** and **mHealth** for older adults. 🏦
-
-## About Me
-
-Before grad school, I honed my skills as a **Technical Manager** at Zhejiang Chongxiao Zhong Han Medical Technology Co., driving operational improvements of up to 80%. My academic path included impactful research at **Wenzhou University of Technology**, **Wenzhou Bopu Institute of Big Data**, and **MIE DEMO Studio**, where I tackled diverse projects from public opinion analysis to launching a volunteer management platform. 
-
-_**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡**_
 
 
-## News!!!!
-- Invited Talk: Gave a talk at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”
-- [ThinkGrasp Official Code is out now!](https://github.com/H-Freax/ThinkGrasp)🔥🔥🔥🔥
-- Excited to share that both of my recent papers have been accepted at **CoRL 2024**! 🌟🌟
-  - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](https://h-freax.github.io/thinkgrasp_page/)
-  - [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://haojhuang.github.io/edge_grasp_page/)
+## 🚨 News  
+- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”  
+- 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
+- 📝 **CoRL 2024 Papers Accepted**:
+  - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
+  - **[Imagination Policy](https://haojhuang.github.io/edge_grasp_page/):** Using Generative Point Cloud Models for Learning Manipulation Policies.
+
 
 ## What I'm Up To
 
@@ -74,10 +80,13 @@ _**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just
 - 📝 Writing articles on platforms like [CSDN](https://blog.csdn.net/qq_38155541), [Zhihu](https://www.zhihu.com/people/freax-23/posts), and [Medium](https://medium.com/@limyoonaxi).
 - 🚀 Engaging with the open-source community on [GitHub](https://github.com/H-Freax), including my latest project, [GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)](https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1), which provides a stable and reliable implementation of these tools.
 
-## Connect With Me
 
-- [📫 Email me](mailto:limyoonaxi@gmail.com)
-- [💼 Connect on LinkedIn](https://www.linkedin.com/in/rubyfreax)
+## 🔗 Connect With Me  
+📫 [**Email Me**](mailto:limyoonaxi@gmail.com)  
+💼 [**LinkedIn Profile**](https://www.linkedin.com/in/rubyfreax)  
+
+_**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡**_
+
 
 ## Open Source Projects and Articles
 
@@ -91,7 +100,7 @@ _**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just
 
 ### Lucas
 <img alt="Lucas" height="100px" src="img/lucas.png" width="100px"/>
-Lucas may seem a little serious, but don’t be fooled! He’s actually quite the pampered cat and loves attention. Even with his perpetually unimpressed look, he always makes time for cuddles and affection every day.
+Lucas may seem a little serious, but he’s secretly a cuddly sweetheart. With his perpetually unimpressed look, he charms everyone while demanding affection daily.
 
 ### Cookie
 <img alt="Cookie" height="100px" src="img/cookie.png" width="100px"/>
