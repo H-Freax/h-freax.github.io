@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "Northeastern University MGEN"
+  company_url = "https://coe.northeastern.edu/"
+  location = "Boston, MA"
+  date_start = "2025-01-01"
+  date_end = ""
+  description = """
+- Assisting in teaching **ENGR 0201: Organizing Academic Success: AI for Personalized Learning**.  
+- Supporting students in understanding AI-driven educational tools and techniques to enhance learning outcomes.  
+- Conducting workshops and office hours to provide individualized academic assistance.
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "the Information Experience and Accessibility Lab in the iSchool at the University of Illinois Urbana-Champaign"
   company_url = "https://infoaccesslab.web.illinois.edu/"

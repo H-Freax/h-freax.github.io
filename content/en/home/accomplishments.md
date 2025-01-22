@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization= "Northeastern University College of Engineering"
+  organization_url="https://coe.northeastern.edu/"
+  title= "Awarded for showcasing innovation and pioneering ideas"
+  url= ""
+  certificate_url= ""
+  date_start= "2024-11-22"
+  date_end= ""
+  description= "Recognized for the project 'ThinkGrasp: A vision-language system for strategic part grasping in clutter' at the MGEN Student Innovation Showcase."
+
+[[item]]
   organization = ""
   organization_url = "https://openai.com/"
   title = "Awarded a $5,000 OpenAI Credit for research and development"
