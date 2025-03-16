@@ -46,10 +46,11 @@ user_groups:
   - Visitors
 ---
 ## 👋 Hi there, I'm **Yaoyao Qian (Freax Ruby)** ✨
+🏠 [**My Homepage**](https://freaxhomepage.vercel.app/) (🚧 Currently Under Construction)
 
 As I gear up for my second year at **Northeastern University**, I reflect on my incredible journey so far. One of the standout moments was my **Machine Learning Engineer Co-op** experience at **Lendbuzz**, where I integrated **vLLM** into systems, achieving a **175% inference speedup**. 🚀  
 
-I’m currently immersed in exciting **robotics and AI research** at:  
+I'm currently immersed in exciting **robotics and AI research** at:  
 - 🤖 [**The Helping Hands Lab**](https://www2.ccs.neu.edu/research/helpinghands/people/) under **Dr. Robert Platt**, advancing **robotic grasping and manipulation systems**.  
 - 🧶 [**Information Experience and Accessibility Lab**](http://rachelfadler.com) at **UIUC** with **Dr. Rachel F. Adler**, enhancing **fintech** and **mHealth accessibility** for older adults.
 
@@ -67,7 +68,7 @@ In the early phase of my graduate studies, I joined the **CHATS Lab** at Northea
 
 
 ## 🚨 News  
-- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on “Enhancing Robotic Manipulation with Vision-Language and Generative Models.”  
+- 🎤 **Invited Talk**: Presented at Shanghai Jiao Tong University on "Enhancing Robotic Manipulation with Vision-Language and Generative Models."  
 - 🔥 **[ThinkGrasp Official Code Release](https://github.com/H-Freax/ThinkGrasp)**  
 - 📝 **CoRL 2024 Papers Accepted**:
   - **[ThinkGrasp](https://h-freax.github.io/thinkgrasp_page/):** A Vision-Language System for Strategic Part Grasping in Clutter.  
@@ -85,7 +86,7 @@ In the early phase of my graduate studies, I joined the **CHATS Lab** at Northea
 📫 [**Email Me**](mailto:limyoonaxi@gmail.com)  
 💼 [**LinkedIn Profile**](https://www.linkedin.com/in/rubyfreax)  
 
-_**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just exchanging ideas, I’d love to connect and explore new possibilities together. 💡**_
+_**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just exchanging ideas, I'd love to connect and explore new possibilities together. 💡**_
 
 
 ## Open Source Projects and Articles
@@ -100,10 +101,10 @@ _**Feel free to reach out! ✨ Whether for collaboration, brainstorming, or just
 
 ### Lucas
 <img alt="Lucas" height="100px" src="img/lucas.png" width="100px"/>
-Lucas may seem a little serious, but he’s secretly a cuddly sweetheart. With his perpetually unimpressed look, he charms everyone while demanding affection daily.
+Lucas may seem a little serious, but he's secretly a cuddly sweetheart. With his perpetually unimpressed look, he charms everyone while demanding affection daily.
 
 ### Cookie
 <img alt="Cookie" height="100px" src="img/cookie.png" width="100px"/>
-Cookie is my constant companion—she can’t stand being apart from me! With her cheerful personality and always-smiling face, she radiates happiness. It feels like Cookie is joyful every single moment, like she’s living in a world with 25 hours of happiness each day!
+Cookie is my constant companion—she can't stand being apart from me! With her cheerful personality and always-smiling face, she radiates happiness. It feels like Cookie is joyful every single moment, like she's living in a world with 25 hours of happiness each day!
 
 **Thank you for visiting my page. Let's make something great together!**
